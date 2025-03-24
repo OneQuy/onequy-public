@@ -1,4 +1,5 @@
 # Change Logs
 
-## 24 Mar 2025
-- **9:00 AM** – Decided to make this app! 🚀  
+## March 24, 2025
+- **22:15** – initialized Expo! ![expo init](./images/expo-init.jpg)
+- **22:00** – decided to create this app! 🚀  
