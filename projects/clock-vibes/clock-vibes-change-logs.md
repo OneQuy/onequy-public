@@ -1,4 +1,6 @@
 # Clock-Vibes Change Logs
+- Change Logs link: https://zii.one/clock-vibes-logs
+_________
 
 ## March 24, 2025
 - **22:50** – first [tweet!](https://x.com/onequy/status/1904199117225775266)
