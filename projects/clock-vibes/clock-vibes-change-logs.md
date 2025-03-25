@@ -6,7 +6,7 @@ _________
 - **10:40** – set a deadline!
 <img src="./images/deadlines.jpg" alt="deadlines" height="200">
 
-- **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*!
+- **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*! [ChatGPT](https://chatgpt.com/share/67e2293b-3764-8002-9ada-db35f39623fd)
 <img src="./images/sketched-plan.jpg" alt="sketched-plan" height="200">
 
 ## March 24, 2025
