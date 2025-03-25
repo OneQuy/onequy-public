@@ -2,6 +2,10 @@
 - Change Logs link: https://zii.one/clock-vibes-logs
 _________
 
+## March 25, 2025
+- **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*!
+<img src="./images/sketched-plan.jpg" alt="expo-init" height="200">
+
 ## March 24, 2025
 - **22:50** – first [tweet!](https://x.com/onequy/status/1904199117225775266)
 - **22:15** – initialized Expo!
