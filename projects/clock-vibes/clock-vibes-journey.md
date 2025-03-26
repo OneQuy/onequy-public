@@ -2,6 +2,9 @@
 
 <img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
 
+- [Journey](https://zii.one/clock-vibes-journey)
+- [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
+- [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
 ## March 26, 2025
