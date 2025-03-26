@@ -9,6 +9,9 @@
 _________
 
 ## March 26, 2025
+- **19:40** – first *vibes coding*, trying one-shot for the layout, but it fails :D
+<img src="https://pbs.twimg.com/media/Gm-DqbybYAM4AoJ?format=jpg&name=medium" alt="vibes-coding" height="200">
+
 - **10:40** – first Waitlist invitation posts! [FB](https://www.facebook.com/share/p/1FQcUvwkQB/), [FB BIPVN](https://www.facebook.com/share/p/1Dc5yZHdbS/)
 - **08:40** – creating [X](https://x.com/clockvibes) account
 - **07:35** – kicking off [tweet!](https://x.com/onequy/status/1904694235137532186)
