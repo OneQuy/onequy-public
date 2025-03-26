@@ -1,5 +1,4 @@
 # Clock-Vibes The Journey
-- Change Logs link: https://zii.one/clock-vibes-logs
 
 <img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
 
