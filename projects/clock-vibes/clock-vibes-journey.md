@@ -2,12 +2,14 @@
 
 <img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
 
+- [X](https://x.com/clockvibes)
 - [Journey](https://zii.one/clock-vibes-journey)
 - [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
 ## March 26, 2025
+- **08:40** – creating [X](https://x.com/clockvibes) account
 - **07:35** – kicking off [tweet!](https://x.com/onequy/status/1904694235137532186)
 - **07:00** – short description: - *"A beautifully customizable digital clock with image and video backgrounds, designed for focus and aesthetics. Personalize its font, size, and position to create the perfect desktop or mobile ambiance."*
 - **06:50** – creating [Waitlist](https://forms.gle/XTMwD9aQvrBLfBX78)
