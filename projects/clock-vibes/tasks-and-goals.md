@@ -1,9 +1,9 @@
-# Customization Options Goals
+# Customization-Options Goals
 
 ## 🕰️ Clock Customize  
 - [ ] Clock  
-- [ ] Quote  
-- [ ] Temperature  
+- [ ] Quote  *(not priority)*
+- [ ] Temperature  *(not priority)*
 
 ## 🔤 Text Customize  
 - [ ] Font  
