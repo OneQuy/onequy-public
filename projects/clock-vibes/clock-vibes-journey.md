@@ -9,6 +9,7 @@
 _________
 
 ## March 26, 2025
+- **10:40** – first Waitlist invitation posts! [FB](https://www.facebook.com/share/p/1FQcUvwkQB/), [FB BIPVN](https://www.facebook.com/share/p/1Dc5yZHdbS/)
 - **08:40** – creating [X](https://x.com/clockvibes) account
 - **07:35** – kicking off [tweet!](https://x.com/onequy/status/1904694235137532186)
 - **07:00** – short description: - *"A beautifully customizable digital clock with image and video backgrounds, designed for focus and aesthetics. Personalize its font, size, and position to create the perfect desktop or mobile ambiance."*
