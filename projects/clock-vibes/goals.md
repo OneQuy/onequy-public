@@ -15,11 +15,11 @@
 - [ ] Image  
 - [ ] GIF  
 - [ ] Video  
+- [ ] Custom (user-uploaded)
 
 ## 🔊 Sound Customize  
 - [ ] Background Ambience (rain, nature, etc.)  
 - [ ] Custom Sounds (user-uploaded)  
-- [ ] Alarm/Chime Options  
 
 ## 📱 Platform Support  
 - [ ] **Win/Mac** (Standalone) *(not priority)*  
