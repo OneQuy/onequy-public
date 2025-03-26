@@ -2,6 +2,9 @@
 
 <img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
 
+- [Journey](https://zii.one/clock-vibes-journey)
+- [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
+- [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
 ## March 26, 2025
@@ -13,7 +16,7 @@ _________
 - **10:40** – set a deadline!
 <img src="./images/deadlines.jpg" alt="deadlines" height="200">
 
-- **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*! [ChatGPT](https://chatgpt.com/share/67e2293b-3764-8002-9ada-db35f39623fd)
+- **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*! [ChatGPT](https://chatgpt.com/share/67e2293b-3764-8002-9ada-db35f39623fd) [FB](https://www.facebook.com/share/p/1LDf4mfvy8/?mibextid=wwXIfr)
 <img src="./images/sketched-plan.jpg" alt="sketched-plan" height="200">
 
 ## March 24, 2025
@@ -23,3 +26,7 @@ _________
 
 - **22:00** – decided to create this app! 🚀
 - **16:45** – first research! [ChatGPT](https://chatgpt.com/share/67e12997-1fe4-8002-ab76-5ac3177fa2f8)
+_________
+
+<img src="./images/starting-point.jpg" alt="starting-point" height="200">
+Starting point.

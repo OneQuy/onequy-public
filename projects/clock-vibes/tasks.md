@@ -1,9 +1,9 @@
 # 🛠️ Tasks  
 
-## ✅ Current Task  
-**Fix bugs**  
+## 👉 Current Task  
+fix bug...
 
-## 🔜 Next Tasks  
+## 🙌 Next Tasks  
 - [ ] fix something
 - [ ] fix something
 
