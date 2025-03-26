@@ -9,6 +9,11 @@
 _________
 
 ## March 26, 2025
+- **20:40** – done basic layout, 100% *vibes coding*! [tweet](https://x.com/onequy/status/1904893194581774671)
+- **20:25** – first [git commit!](https://github.com/OneQuy/clockvibes/commit/0b669faebfab970b2d9dca060582e38fbb56bc25)
+- **19:40** – first *vibes coding*, trying one-shot for the layout, but it fails :D
+<img src="https://pbs.twimg.com/media/Gm-DqbybYAM4AoJ?format=jpg&name=medium" alt="vibes-coding" height="200">
+
 - **10:40** – first Waitlist invitation posts! [FB](https://www.facebook.com/share/p/1FQcUvwkQB/), [FB BIPVN](https://www.facebook.com/share/p/1Dc5yZHdbS/)
 - **08:40** – creating [X](https://x.com/clockvibes) account
 - **07:35** – kicking off [tweet!](https://x.com/onequy/status/1904694235137532186)
