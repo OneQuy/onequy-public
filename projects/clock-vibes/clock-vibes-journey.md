@@ -8,6 +8,9 @@
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Thu March 27, 2025
+- **08:00** – done basic layout with [demo](https://x.com/onequy/status/1905062296873062582)
+
 ## March 26, 2025
 - **20:40** – done basic layout, 100% *vibes coding*! [tweet](https://x.com/onequy/status/1904893194581774671)
 <img src="./images/basic-layout.png" alt="basic-layout" height="200">
