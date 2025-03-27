@@ -11,7 +11,7 @@ _________
 ## Thu March 27, 2025
 - **08:00** – done basic layout with [demo](https://x.com/onequy/status/1905062296873062582)
 
-## March 26, 2025
+## Wed March 26, 2025
 - **20:40** – done basic layout, 100% *vibes coding*! [tweet](https://x.com/onequy/status/1904893194581774671)
 <img src="./images/basic-layout.png" alt="basic-layout" height="200">
 
@@ -25,14 +25,14 @@ _________
 - **07:00** – short description: - *"A beautifully customizable digital clock with image and video backgrounds, designed for focus and aesthetics. Personalize its font, size, and position to create the perfect desktop or mobile ambiance."*
 - **06:50** – creating [Waitlist](https://forms.gle/XTMwD9aQvrBLfBX78)
 
-## March 25, 2025
+## Tue March 25, 2025
 - **10:40** – set a deadline!
 <img src="./images/deadlines.jpg" alt="deadlines" height="200">
 
 - **10:20** – sketched plan for *Clock Vibes, MenuBuddy and OnRepeat*! [ChatGPT](https://chatgpt.com/share/67e2293b-3764-8002-9ada-db35f39623fd) [FB](https://www.facebook.com/share/p/1LDf4mfvy8/?mibextid=wwXIfr)
 <img src="./images/sketched-plan.jpg" alt="sketched-plan" height="200">
 
-## March 24, 2025
+## Mon March 24, 2025
 - **22:50** – first [tweet!](https://x.com/onequy/status/1904199117225775266)
 - **22:15** – initialized Expo!
 <img src="./images/expo-init.jpg" alt="expo-init" height="200">
