@@ -1,11 +1,11 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task  
-fix bug...
+- code logic for main app layout.
 
 ## 🙌 Next Tasks  
-- [ ] fix something
-- [ ] fix something
+- [ ] fix something 1
+- [ ] fix something 2
 
 ## 🎉 Done  
 - ✅ Fixed...
