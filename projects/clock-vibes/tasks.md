@@ -1,7 +1,9 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task  
-- code logic for main app layout.
+- design/code logic for main app layout:
+  + control buttons area
+  + 
 
 ## 🙌 Next Tasks  
 - [ ] fix something 1
