@@ -1,6 +1,6 @@
 # Clock-Vibes The Journey
 
-<img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
+<img src="./images/simple-demo.png" alt="simple-demo" height="200">
 
 ### Links:
 - [X](https://x.com/clockvibes)
