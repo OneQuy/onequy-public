@@ -1,11 +1,13 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task  
-fix bug...
+- design/code logic for main app layout:
+  + control buttons area
+  + 
 
 ## 🙌 Next Tasks  
-- [ ] fix something
-- [ ] fix something
+- [ ] fix something 1
+- [ ] fix something 2
 
 ## 🎉 Done  
 - ✅ Fixed...
