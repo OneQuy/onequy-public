@@ -2,6 +2,7 @@
 
 <img src="./images/simple-demo.jpg" alt="simple-demo" height="200">
 
+### Links:
 - [X](https://x.com/clockvibes)
 - [Journey](https://zii.one/clock-vibes-journey)
 - [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
@@ -9,7 +10,7 @@
 _________
 
 
-## Fre March 28, 2025
+## Fri March 28, 2025
 - **08:00** – done basic layout for control buttons area: [tweet](https://x.com/onequy/status/1905428172558270839)
 
 ## Thu March 27, 2025
