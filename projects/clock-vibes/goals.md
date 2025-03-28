@@ -21,6 +21,10 @@
 - [ ] Background Ambience (rain, nature, etc.)  
 - [ ] Custom Sounds (user-uploaded)  
 
+## 👘 Template *(not priority)*
+- [ ] Templates
+- [ ] Custom templates
+
 ## 📱 Platform Support  
 - [ ] **Win/Mac** (Standalone) *(not priority)*  
 - [ ] **iOS**  
