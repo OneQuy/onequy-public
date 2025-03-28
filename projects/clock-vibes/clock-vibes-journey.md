@@ -11,6 +11,7 @@ _________
 
 
 ## Fri March 28, 2025
+- **15:30** – first ever 9-people in Waitlist!!! [waitlist](https://docs.google.com/spreadsheets/d/1xaxEX3RMJ-3tI46Ksa5_ZjhkFG4t4gOuFqhqrK53WRI/edit?gid=433036008#gid=433036008), [post X](https://x.com/onequy/status/1905542288581034406)
 - **10:50** – first email for waitlist! [email](https://mail.google.com/mail/u/0/#label/clock+vibes/DmwnWsCQgjQpzbXKjmtlFqgphSdJvXrRSthWNVlTtpZbLrqQkFPRJsvPCQjstrmWRbvscPrwHFjG), [post BIPVN](https://www.facebook.com/groups/1569314343856132/?multi_permalinks=1823287121792185&hoisted_section_header_type=recently_seen)
 - **08:00** – done basic layout for control buttons area: [tweet](https://x.com/onequy/status/1905428172558270839)
 
