@@ -11,6 +11,7 @@ _________
 
 
 ## Fri March 28, 2025
+- **10:50** – first email for waitlist!: [email](https://mail.google.com/mail/u/0/popout?ver=k9e5f2ay6ml1&cat=clock%20vibes&qid=4947F365-DCF4-48DF-AA04-58777B25FFDB&search=cat&th=%23thread-a%3Ar1181319981443642088%7Cmsg-a%3Ar-1132157535526419025&cvid=1)
 - **08:00** – done basic layout for control buttons area: [tweet](https://x.com/onequy/status/1905428172558270839)
 
 ## Thu March 27, 2025
