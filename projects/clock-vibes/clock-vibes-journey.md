@@ -8,6 +8,10 @@
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+
+## Fre March 28, 2025
+- **08:00** – done basic layout for control buttons area: [tweet](https://x.com/onequy/status/1905428172558270839)
+
 ## Thu March 27, 2025
 - **08:00** – done basic layout with [demo](https://x.com/onequy/status/1905062296873062582)
 
