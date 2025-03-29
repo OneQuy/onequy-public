@@ -2,8 +2,8 @@
 
 ## 🕰️ Clock Customize  
 - [ ] Clock  
-- [ ] Quote *(not priority)*  
-- [ ] Temperature *(not priority)*  
+- [ ] Quote 
+- [ ] Temperature
 
 ## 🔤 Text Customize  
 - [ ] Font  
@@ -21,12 +21,12 @@
 - [ ] Background Ambience (rain, nature, etc.)  
 - [ ] Custom Sounds (user-uploaded)  
 
-## 👘 Template *(not priority)*
+## 👘 Template
 - [ ] Templates
 - [ ] Custom templates
 
 ## 📱 Platform Support  
-- [ ] **Win/Mac** (Standalone) *(not priority)*  
+- [ ] **Win/Mac** (Standalone)
 - [ ] **iOS**  
 - [ ] **Android**  
-- [ ] **Web** *(not priority)*  
+- [ ] **Web**
