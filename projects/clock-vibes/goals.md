@@ -1,3 +1,22 @@
+# ✨ **First Release Goals**
+
+## 🔤 **Text Customization**
+- [ ] **Font:** 5 fonts  
+- [ ] **Size:** 5 sizes  
+
+## 🎨 **Background Customization**
+- [ ] **Image:** 5 images  
+- [ ] **Video:** 5 videos  
+
+## 🔊 **Sound Customization**
+- [ ] **Sound:** 5 sounds  
+
+## 📱 **Platform Support**
+- [ ] **iOS**  
+- [ ] **Android**  
+ 
+ _______________________________________
+ 
 # **Customization-Options Goals**  
 
 ## 🕰️ Clock Customize  
@@ -9,12 +28,11 @@
 - [ ] Font  
 - [ ] Size  
 - [ ] Position  
-- [ ] Effect  
+- [ ] Animation time updating 
 
 ## 🎨 Background Customize  
 - [ ] Image  
-- [ ] GIF  
-- [ ] Video  
+- [ ] Video / GIF
 - [ ] Custom (user-uploaded)
 
 ## 🔊 Sound Customize  
