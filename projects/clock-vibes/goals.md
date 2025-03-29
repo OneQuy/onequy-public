@@ -14,37 +14,36 @@
 ## 📱 **Platform Support**
 - [ ] **iOS**  
 - [ ] **Android**  
- 
  _______________________________________
  
-# **Customization-Options Goals**  
+# 🏁 **Final Goals**
 
-## 🕰️ Clock Customize  
-- [ ] Clock  
-- [ ] Quote 
-- [ ] Temperature
+## 🕰️ **Clock Customization**  
+- [ ] **Clock**  
+- [ ] **Quote**  
+- [ ] **Temperature**  
 
-## 🔤 Text Customize  
-- [ ] Font  
-- [ ] Size  
-- [ ] Position  
-- [ ] Animation time updating 
+## 🔤 **Text Customization**  
+- [ ] **Font**  
+- [ ] **Size**  
+- [ ] **Position**  
+- [ ] **Animation (Time Updating)**  
 
-## 🎨 Background Customize  
-- [ ] Image  
-- [ ] Video / GIF
-- [ ] Custom (user-uploaded)
+## 🎨 **Background Customization**  
+- [ ] **Image**  
+- [ ] **Video / GIF**  
+- [ ] **Custom (User-Uploaded)**  
 
-## 🔊 Sound Customize  
-- [ ] Background Ambience (rain, nature, etc.)  
-- [ ] Custom Sounds (user-uploaded)  
+## 🔊 **Sound Customization**  
+- [ ] **Background Ambience** (rain, nature, etc.)  
+- [ ] **Custom Sounds** (user-uploaded)  
 
-## 👘 Template
-- [ ] Templates
-- [ ] Custom templates
+## 👘 **Template**  
+- [ ] **Pre-made Templates**  
+- [ ] **Custom Templates**  
 
-## 📱 Platform Support  
-- [ ] **Win/Mac** (Standalone)
+## 📱 **Platform Support**  
+- [ ] **Windows/Mac** (Standalone)  
 - [ ] **iOS**  
 - [ ] **Android**  
-- [ ] **Web**
+- [ ] **Web**  
