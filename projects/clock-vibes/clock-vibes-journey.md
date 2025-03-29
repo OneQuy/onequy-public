@@ -4,16 +4,18 @@
 
 ### Links:
 - [X](https://x.com/clockvibes)
+- [Facebook](https://www.facebook.com/clockvibes)
 - [Journey](https://zii.one/clock-vibes-journey)
 - [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-## Sat March 29, 2025
-- **08:43** – day 4: first release goals!
+## Sat March 29, 2025 (day 4)
+- **09:10** – created [FB](https://www.facebook.com/clockvibes)
+- **08:43** – first release goals!
 <img src="https://pbs.twimg.com/media/GnLA4DPacAA_pp1?format=jpg&name=medium" alt="1st-release-goals" height="200">
 
-- **08:30** – day 4: Added some animated menu buttons: [tweet and demo](https://x.com/onequy/status/1905794576658653387)
+- **08:30** – Added some animated menu buttons: [tweet and demo](https://x.com/onequy/status/1905794576658653387)
  
 ## Fri March 28, 2025
 - **15:30** – first ever 9-people in Waitlist!!! [waitlist](https://docs.google.com/spreadsheets/d/1xaxEX3RMJ-3tI46Ksa5_ZjhkFG4t4gOuFqhqrK53WRI/edit?gid=433036008#gid=433036008), [post X](https://x.com/onequy/status/1905542288581034406)
