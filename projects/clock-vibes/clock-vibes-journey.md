@@ -10,6 +10,9 @@
 _________
 
 ## Sat March 29, 2025
+- **08:43** – day 4: first release goals!
+<img src="https://pbs.twimg.com/media/GnLA4DPacAA_pp1?format=jpg&name=medium" alt="1st-release-goals" height="200">
+
 - **08:30** – day 4: Added some animated menu buttons: [tweet and demo](https://x.com/onequy/status/1905794576658653387)
  
 ## Fri March 28, 2025
