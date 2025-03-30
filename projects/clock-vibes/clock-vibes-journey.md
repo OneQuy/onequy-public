@@ -1,3 +1,4 @@
+
 # Clock-Vibes The Journey
 
 <img src="./images/simple-demo.png" alt="simple-demo" height="200">
@@ -9,6 +10,9 @@
 - [Tasks](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/tasks.md)
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
+
+## Su March 30, 2025 (day 5)
+- **22:10** – added first 5 fonts! completed the first item of the first release goal [tweet](https://x.com/onequy/status/1906369774600532225) 
 
 ## Sat March 29, 2025 (day 4)
 - **09:10** – created [FB](https://www.facebook.com/clockvibes)
