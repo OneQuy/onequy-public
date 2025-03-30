@@ -1,14 +1,11 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task  
-- design/code logic for main app layout:
-  + control buttons area
+  + adding fonts
   + 
 
 ## 🙌 Next Tasks  
-- [ ] fix something 1
-- [ ] fix something 2
+- [ ] credit fonts
 
 ## 🎉 Done  
-- ✅ Fixed...
-- ✅ Fixed...
+- ✅ design/code logic for main app layout:
