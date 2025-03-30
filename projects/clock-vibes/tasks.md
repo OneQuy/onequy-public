@@ -1,11 +1,11 @@
 # 🛠️ Tasks  
 
-## 👉 Current Task  
-  + adding fonts
-  + 
+## 👉 Current Task    
+  + ...
 
 ## 🙌 Next Tasks  
 - [ ] credit fonts
 
 ## 🎉 Done  
 - ✅ design/code logic for main app layout:
+- ✅ adding fonts
