@@ -1,5 +1,6 @@
-
 # Clock-Vibes The Journey
+
+Enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
 
 <img src="./images/simple-demo.png" alt="simple-demo" height="200">
 
