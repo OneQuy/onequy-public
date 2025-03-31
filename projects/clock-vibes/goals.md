@@ -18,6 +18,8 @@
  
 # 🏁 **Final Goals**
 
+The problem @ClockVibes solves: enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
+
 ## 🕰️ **Clock Customization**  
 - [ ] **Clock**  
 - [ ] **Quote**  
