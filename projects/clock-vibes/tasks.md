@@ -1,7 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-+ add size of text
++ add 5 sizes for clock text
 
 ## 🙌 Next Tasks  
 - [ ] credit fonts
