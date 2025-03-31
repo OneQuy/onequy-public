@@ -15,7 +15,7 @@ _________
 ## Mon March 31, 2025 (day 6)
 
 - **21:30** – curated first 5 images background [tweet](https://x.com/onequy/status/1906709200048427235)
-<img src="https://pbs.twimg.com/media/GnLA4DPacAA_pp1?format=jpg&name=medium" alt="curated-5-images" height="200">
+<img src="https://pbs.twimg.com/media/GnX9rvQbIAEYS3-?format=jpg&name=medium" alt="curated-5-images" height="200">
 
 - **15:00** – first glances!
 <div style="display: flex; gap: 10px;">
