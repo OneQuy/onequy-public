@@ -1,8 +1,8 @@
 # ✨ **First Release Goals**
 
 ## 🔤 **Text Customization**
-- [ ] **Font:** 5 fonts  
-- [ ] **Size:** 5 sizes  
+- [X] **Font:** 5 fonts  
+- [X] **Size:** 5 sizes  
 
 ## 🎨 **Background Customization**
 - [ ] **Image:** 5 images  
