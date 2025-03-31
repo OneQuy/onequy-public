@@ -14,6 +14,7 @@ _________
 
 ## Mon March 31, 2025 (day 6)
 
+- **22:40** - 20% of adding backgrounds customization: [tweet](https://x.com/onequy/status/1906737386618302699)
 - **21:30** – curated first 5 images background [tweet](https://x.com/onequy/status/1906709200048427235)
 <img src="https://pbs.twimg.com/media/GnX9rvQbIAEYS3-?format=jpg&name=medium" alt="curated-5-images" height="200">
 
