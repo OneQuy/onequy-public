@@ -14,8 +14,11 @@ _________
 
 ## Mon March 31, 2025 (day 6)
 - **15:00** – first glances!
-<img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487498051_3344592972349287_135098043954086516_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHUcOjn0TMAgJS1rrzST7TZWVzrsoFLl9FZXOuygUuX0Tt7WVlDOka4JEPMyCDFTjZYTvcG5vQCxFyjRxdqgXuA&_nc_ohc=8gDDgSEPT-AQ7kNvgHnWh2b&_nc_oc=Adlvsl1ytP2rWhj47dDpivp3ebixzsMDXz58282g9yhW-aopm3j356gCDf-0ZlMxM2Y&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=rurXvR1kkjOCdS_GXDMj2A&oh=00_AYGyenfuV7qnDMFvNthXIHheUAIxK4tlXRNLSO4D1bWVbA&oe=67F03919" alt="1st-glance" height="200">
-<img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487227972_3344593085682609_8914086531177239263_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGNLHmYPM6mFJbrdoV9AlHm3GPnyM_sugHcY-fIz-y6AR72gqfYtbiZye2xbXAJS2tZWftKzLc-jgu6AoF-PQ0n&_nc_ohc=WipdtnDL9zwQ7kNvgEeXpFX&_nc_oc=AdkIn30QthwF-aWNdfXPSbk5br3rBcOKQJFENKp9kOJXDJJwVD_qVp8gwGtREw4o3xw&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=zAvLD4O6ig7OlfQru0fcWg&oh=00_AYH4zgYSTqr2W1IScC-vTlxGEVFW_VxQTb3ybHXQZrhIrg&oe=67F032E7" alt="2st-glance" height="200">
+<div style="display: flex; gap: 10px;">
+    <img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487498051_3344592972349287_135098043954086516_n.jpg?stp=dst-jpg_p960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHUcOjn0TMAgJS1rrzST7TZWVzrsoFLl9FZXOuygUuX0Tt7WVlDOka4JEPMyCDFTjZYTvcG5vQCxFyjRxdqgXuA&_nc_ohc=8gDDgSEPT-AQ7kNvgHnWh2b&_nc_oc=Adlvsl1ytP2rWhj47dDpivp3ebixzsMDXz58282g9yhW-aopm3j356gCDf-0ZlMxM2Y&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=rurXvR1kkjOCdS_GXDMj2A&oh=00_AYGyenfuV7qnDMFvNthXIHheUAIxK4tlXRNLSO4D1bWVbA&oe=67F03919" alt="1st-glance" height="200">
+    <img src="https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/487227972_3344593085682609_8914086531177239263_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGNLHmYPM6mFJbrdoV9AlHm3GPnyM_sugHcY-fIz-y6AR72gqfYtbiZye2xbXAJS2tZWftKzLc-jgu6AoF-PQ0n&_nc_ohc=WipdtnDL9zwQ7kNvgEeXpFX&_nc_oc=AdkIn30QthwF-aWNdfXPSbk5br3rBcOKQJFENKp9kOJXDJJwVD_qVp8gwGtREw4o3xw&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=zAvLD4O6ig7OlfQru0fcWg&oh=00_AYH4zgYSTqr2W1IScC-vTlxGEVFW_VxQTb3ybHXQZrhIrg&oe=67F032E7" alt="2nd-glance" height="200">
+</div>
+
 
 - **08:00** – added first 7 fonts! completed the second item of the first release goal [tweet](https://x.com/onequy/status/1906514066870513890)
 
