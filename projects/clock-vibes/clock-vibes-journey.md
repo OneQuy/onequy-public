@@ -12,6 +12,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue Apr 1, 2025 (day 7)
+
+- **07:00** - created Firebase Storage.
+
 ## Mon March 31, 2025 (day 6)
 
 - **22:40** - 20% of adding backgrounds customization: [tweet](https://x.com/onequy/status/1906737386618302699)
