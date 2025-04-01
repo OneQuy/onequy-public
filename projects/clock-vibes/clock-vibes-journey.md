@@ -14,6 +14,7 @@ _________
 
 ## Tue Apr 1, 2025 (day 7)
 
+- **22:30** - converted almost my template codebase from bare RN to Expo.
 - **07:00** - created Firebase Storage.
 
 ## Mon March 31, 2025 (day 6)
