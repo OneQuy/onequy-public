@@ -6,6 +6,7 @@
 ## 🙌 Next Tasks  
 - [ ] credit fonts
 - [ ] revamp UI/UX
+- [ ] re-pick hd and raw urls
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
