@@ -12,6 +12,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Wed Apr 2, 2025 (day 8)
+- **17:00** – first time offer buy artist art
+<img src="https://pbs.twimg.com/media/Gnha8FhbAAAX7rm?format=jpg&name=medium" alt="buy-artist" height="200">
+
 ## Tue Apr 1, 2025 (day 7)
 
 - **22:30** - converted almost my template codebase from bare RN to Expo.
