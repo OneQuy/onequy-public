@@ -12,10 +12,14 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Thu Apr 3, 2025 (day 9)
+- **6:30** – started coding image background selection view.
+ 
 ## Wed Apr 2, 2025 (day 8)
 - **17:00** – first time offer buy artist art
 <img src="https://pbs.twimg.com/media/Gnha8FhbAAAX7rm?format=jpg&name=medium" alt="buy-artist" height="200">
-- **5:45** – first time early bird in a while woke up to cook!
+
+- **05:45** – first time early bird in a while woke up to cook!
  
 ## Tue Apr 1, 2025 (day 7)
 
