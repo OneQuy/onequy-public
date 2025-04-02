@@ -15,7 +15,8 @@ _________
 ## Wed Apr 2, 2025 (day 8)
 - **17:00** – first time offer buy artist art
 <img src="https://pbs.twimg.com/media/Gnha8FhbAAAX7rm?format=jpg&name=medium" alt="buy-artist" height="200">
-
+- **5:45** – first time early bird in a while woke up to cook!
+ 
 ## Tue Apr 1, 2025 (day 7)
 
 - **22:30** - converted almost my template codebase from bare RN to Expo.
