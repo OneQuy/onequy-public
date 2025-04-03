@@ -1,7 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-+ build testflight
++ add 5 videos
 
 ## 🙌 Next Tasks  
 - [ ] credit fonts
