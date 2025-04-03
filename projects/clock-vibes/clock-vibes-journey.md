@@ -13,6 +13,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu Apr 3, 2025 (day 9)
+- **20:20** – starting build first Testflight!
+- **20:20** – done adding very-first 5 image backgrounds
 - **8:15** - 60% of adding backgrounds customization: [fb post](https://www.facebook.com/onequy/videos/1201465991362044/)
 - **6:30** – started coding image background selection view.
  
