@@ -16,7 +16,6 @@ _________
 - **21:00** - first time on TF! [tweet](https://x.com/onequy/status/1907799393736208576)
 <img src="https://pbs.twimg.com/media/Gnnc5_rbIAAkHeC?format=jpg&name=large" alt="first-testflight" height="200">
 
-https://pbs.twimg.com/media/Gnnc5_rbIAAkHeC?format=jpg&name=medium)
 - **20:20** – starting build first Testflight! failed! lol. due to Key.ts
 - **20:20** – done adding very-first 5 image backgrounds
 - **8:15** - 60% of adding backgrounds customization: [fb post](https://www.facebook.com/onequy/videos/1201465991362044/)
