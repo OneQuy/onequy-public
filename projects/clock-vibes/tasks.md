@@ -1,7 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-+ add 5 image background
++ build testflight
 
 ## 🙌 Next Tasks  
 - [ ] credit fonts
@@ -12,3 +12,4 @@
 - ✅ designed/coded logic for main app layout:
 - ✅ added fonts
 - ✅ added 5 sizes for clock text
+- ✅ added 5 images background
