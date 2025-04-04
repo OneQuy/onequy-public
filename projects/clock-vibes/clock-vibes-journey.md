@@ -2,7 +2,7 @@
 
 Enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
 
-<img src="https://pbs.twimg.com/media/Gnpq_AjaMAA_fw4?format=jpg&name=medium" alt="cover-x" height="200">
+<img src="https://pbs.twimg.com/media/Gnp9eZFaIAAFkfG?format=jpg&name=medium" alt="best-demo" height="200">
 
 ### Links:
 - [X](https://x.com/clockvibes)
@@ -13,6 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Fri Apr 4, 2025 (day 10)
+- **08:50** - I love  my app BEST DEMO EVER!
+<img src="https://pbs.twimg.com/media/Gnp9eZFaIAAFkfG?format=jpg&name=medium" alt="logo-ai" height="200">
+
 - **07:30** - ChatGPT generated logo!
 <img src="https://pbs.twimg.com/media/GnpqB2caoAA9UUA?format=jpg&name=medium" alt="logo-ai" height="200">
 
