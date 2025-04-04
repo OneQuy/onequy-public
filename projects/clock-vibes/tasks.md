@@ -9,6 +9,7 @@
 - [ ] re-pick hd and raw urls
 - [ ] add RevenueCat, design purchase UI
 - [ ] add tracking
+- [ ] raw image/video
 - [ ] offline
 
 ## 🎉 Done  
