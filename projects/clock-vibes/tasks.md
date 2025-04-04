@@ -9,6 +9,7 @@
 - [ ] re-pick hd and raw urls
 - [ ] add RevenueCat, design purchase UI
 - [ ] add tracking
+- [ ] offline
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
