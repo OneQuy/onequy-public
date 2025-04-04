@@ -2,7 +2,7 @@
 
 Enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
 
-<img src="./images/simple-demo.png" alt="simple-demo" height="200">
+<img src="https://pbs.twimg.com/media/Gnpq_AjaMAA_fw4?format=jpg&name=medium" alt="cover-x" height="200">
 
 ### Links:
 - [X](https://x.com/clockvibes)
@@ -13,6 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Fri Apr 4, 2025 (day 10)
+- **07:30** - ChatGPT generated logo!
+<img src="https://pbs.twimg.com/media/GnpqB2caoAA9UUA?format=jpg&name=medium" alt="logo-ai" height="200">
+
 - **07:00** - first time on real android device #apk! [tweet](https://x.com/onequy/status/1907949384739991765)
 <img src="https://pbs.twimg.com/media/Gnpl2JtaMAAg27b?format=jpg&name=medium" alt="first-apk" height="200">
 
