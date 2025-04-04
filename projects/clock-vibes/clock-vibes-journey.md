@@ -12,6 +12,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Fri Apr 4, 2025 (day 10)
+- **07:00** - first time on real android device #apk! [tweet](https://x.com/onequy/status/1907949384739991765)
+<img src="https://pbs.twimg.com/media/Gnpl2JtaMAAg27b?format=jpg&name=medium" alt="first-apk" height="200">
+
 ## Thu Apr 3, 2025 (day 9)
 - **22:00** – starting build first apk!
 - **21:00** - first time on TF! [tweet](https://x.com/onequy/status/1907799393736208576)
