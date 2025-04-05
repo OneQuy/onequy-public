@@ -4,7 +4,6 @@
 + add 5 videos
 
 ## 🙌 Next Tasks  
-- [ ] android: fix full screen
 - [ ] credit fonts
 - [ ] revamp UI/UX
 - [ ] re-pick hd and raw urls
@@ -18,3 +17,4 @@
 - ✅ added fonts
 - ✅ added 5 sizes for clock text
 - ✅ added 5 images background
+- ✅ android: fix full screen
