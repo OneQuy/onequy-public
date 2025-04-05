@@ -14,8 +14,8 @@ _________
 
 
 ## Sat Apr 5, 2025 (day 11)
-- **21:45** - update icon app.
-- **21:00** - added 5 videos
+- **21:45** - updated icon (blur version) app.
+- **21:00** - added 5 videos: [tweet](https://x.com/onequy/status/1908536643675381807)
 
 ## Fri Apr 4, 2025 (day 10)
 - **21:00** - 2nd logo generated
