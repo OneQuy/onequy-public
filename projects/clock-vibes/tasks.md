@@ -1,8 +1,8 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-+ add 5 videos
-
+- add 5 sounds
+ 
 ## 🙌 Next Tasks  
 - [ ] credit fonts
 - [ ] revamp UI/UX
@@ -18,3 +18,4 @@
 - ✅ added 5 sizes for clock text
 - ✅ added 5 images background
 - ✅ android: fix full screen
+- ✅ added 5 videos
