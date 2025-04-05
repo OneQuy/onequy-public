@@ -12,8 +12,12 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-## Fri Apr 4, 2025 (day 10)
 
+## Sat Apr 5, 2025 (day 11)
+- **21:45** - update icon app.
+- **21:00** - added 5 videos
+
+## Fri Apr 4, 2025 (day 10)
 - **21:00** - 2nd logo generated
 <img src="https://pbs.twimg.com/media/GnsnASDbIAAkHJX?format=jpg&name=medium" alt="logo-ai" height="200">
 
