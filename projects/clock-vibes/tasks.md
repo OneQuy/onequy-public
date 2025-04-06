@@ -1,11 +1,10 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- add 5 sounds
+- [ ] revamp UI/UX
  
 ## 🙌 Next Tasks  
 - [ ] credit fonts
-- [ ] revamp UI/UX
 - [ ] re-pick hd and raw urls
 - [ ] add RevenueCat, design purchase UI
 - [ ] add tracking
