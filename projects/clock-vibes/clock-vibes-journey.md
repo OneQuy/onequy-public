@@ -12,6 +12,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sun Apr 6, 2025 (day 12)
+- **21:00** - added 5 sounds. done basic goal! [tweet](https://x.com/onequy/status/1908896508109611281)
 
 ## Sat Apr 5, 2025 (day 11)
 - **21:45** - updated icon (blur version) app.
