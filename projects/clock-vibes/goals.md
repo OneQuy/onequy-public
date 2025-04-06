@@ -5,11 +5,11 @@
 - [X] **Size:** 5 sizes  
 
 ## 🎨 **Background Customization**
-- [ ] **Image:** 5 images  
-- [ ] **Video:** 5 videos  
+- [X] **Image:** 5 images  
+- [X] **Video:** 5 videos  
 
 ## 🔊 **Sound Customization**
-- [ ] **Sound:** 5 sounds  
+- [X] **Sound:** 5 sounds  
 
 ## 📱 **Platform Support**
 - [ ] **iOS**  
