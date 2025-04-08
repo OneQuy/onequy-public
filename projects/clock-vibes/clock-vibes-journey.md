@@ -12,6 +12,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue Apr 8, 2025 (day 14)
+- **08:00** - blurred background! [X](https://x.com/onequy/status/1909413054728806659)
+- 
 ## Mon Apr 7, 2025 (day 13)
 - **22:00** - learning Skia.
 - 
