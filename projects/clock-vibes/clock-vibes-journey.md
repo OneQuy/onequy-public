@@ -14,6 +14,7 @@ _________
 
 ## Wed Apr 9, 2025 (day 15)
 - **08:00** - revamped category buttons UI! also got first crash!! [X](https://x.com/onequy/status/1909783623097892956)
+<img src="https://pbs.twimg.com/media/GoDo7r9a0AAjn01?format=jpg&name=large" alt="logo-ai" height="200">
 
 ## Tue Apr 8, 2025 (day 14)
 - **08:00** - blurred background! [X](https://x.com/onequy/status/1909413054728806659), updated paddings, revamped category UI
