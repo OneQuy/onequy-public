@@ -12,7 +12,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Thu Apr 10, 2025 (day 16)
+- **22:00** - apply a demo for RN Skia. But seem its time's up :(
+
 ## Wed Apr 9, 2025 (day 15)
+- **23:00** - fixed the crash!
 - **08:00** - revamped category buttons UI! also got first crash!! [X](https://x.com/onequy/status/1909783623097892956)
 <img src="https://pbs.twimg.com/media/GoDo7r9a0AAjn01?format=jpg&name=large" alt="logo-ai" height="200">
 
