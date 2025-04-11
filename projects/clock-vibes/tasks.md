@@ -10,6 +10,7 @@
 - [ ] add tracking
 - [ ] raw image/video
 - [ ] fix SkiaBlurredImageWithTransition
+- [ ] skeleton loading?
 - [ ] offline
 
 ## 🎉 Done  
