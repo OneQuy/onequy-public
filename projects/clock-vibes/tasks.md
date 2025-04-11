@@ -9,6 +9,7 @@
 - [ ] add RevenueCat, design purchase UI
 - [ ] add tracking
 - [ ] raw image/video
+- [ ] fix SkiaBlurredImageWithTransition
 - [ ] offline
 
 ## 🎉 Done  
