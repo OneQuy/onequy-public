@@ -11,6 +11,7 @@
 - [ ] raw image/video
 - [ ] fix SkiaBlurredImageWithTransition
 - [ ] skeleton loading?
+- [ ] LegendList?
 - [ ] offline
 
 ## 🎉 Done  
