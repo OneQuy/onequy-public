@@ -5,6 +5,8 @@
 
 ## 🙌 Next Tasks  
 - [ ] save user setting: background, font,...sound volumn,...
+- [ ] fix bugs flash blur background
+- [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
 - [ ] add RevenueCat, design purchase UI
