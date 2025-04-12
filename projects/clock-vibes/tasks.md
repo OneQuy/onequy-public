@@ -4,6 +4,7 @@
 - [ ] revamp UI/UX
  
 ## 🙌 Next Tasks  
+- [ ] save user setting: background, font,...sound volumn,...
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
 - [ ] add RevenueCat, design purchase UI
