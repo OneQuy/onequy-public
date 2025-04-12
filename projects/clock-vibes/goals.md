@@ -11,9 +11,12 @@
 ## 🔊 **Sound Customization**
 - [X] **Sound:** 5 sounds  
 
-## 📱 **Platform Support**
+## 📱 **App Complete **
 - [ ] **iOS**  
-- [ ] **Android**  
+- [ ] **Android**
+- [ ] **Tracking**
+- [ ] **IAP**
+
  _______________________________________
  
 # 🏁 **Final Goals**
