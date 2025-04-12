@@ -1,7 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- premium designing
+- premium integration
 
 ## 🙌 Next Tasks  
 - [ ] save user setting: background, font,...sound volumn,...
