@@ -12,6 +12,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sun Apr 13, 2025 (day 19)
+- **21:00** - refactor tracking + cook premium
+  
 ## Sat Apr 12, 2025 (day 18)
 - **21:00** - refactor tracking
 - **20:00** - done design Premium UI. start integrate RevenueCat
