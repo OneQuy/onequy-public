@@ -1,8 +1,8 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] revamp UI/UX
- 
+- premium designing
+
 ## 🙌 Next Tasks  
 - [ ] save user setting: background, font,...sound volumn,...
 - [ ] credit fonts
@@ -22,3 +22,4 @@
 - ✅ added 5 images background
 - ✅ android: fix full screen
 - ✅ added 5 videos
+- ✅ almost done revamped UI/UX
