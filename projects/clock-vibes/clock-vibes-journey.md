@@ -12,6 +12,15 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sat Apr 12, 2025 (day 18)
+- **18:00** - start design Premium UI
+<img src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/490530249_3359169044225013_6566362312812457269_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeGuX2pDs0SV87BqyRBKK2DwsbD_Iq7raH-xsP8irutof-IqET2vldcUAYoRHCPH6YbtGehMpWEiXFEdiI9zO9SI&_nc_ohc=JY7RikkoaKwQ7kNvwE5WZTB&_nc_oc=Admgm7cx-BiMUZfSZpbFEuUNQlBqETp9vSUS9MvrOcWrwHu9EIIMY0jywle3wJTqoDc&_nc_zt=23&_nc_ht=scontent.fhan4-3.fna&_nc_gid=ocIIWqvOkEfNFqq4oakxrA&oh=00_AfG6qJXwPiuhr5u00eaNNCIHXZb8h10Bp60PKBZYhcpnng&oe=68003FAE" height="200">
+- **17:00** - almost done revamped UI!
+  
+## Fri Apr 11, 2025 (day 17)
+- remvamp UI
+- UI for sound  
+
 ## Thu Apr 10, 2025 (day 16)
 - **22:00** - apply a demo for RN Skia. But seem its time's up :(
 
