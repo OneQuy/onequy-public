@@ -6,6 +6,7 @@
 
 ## 🙌 Next Tasks  
 - [ ] change ApatabaseKey_Dev
+- [ ] fix bug UI android + iphone SE
 - [ ] save user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
