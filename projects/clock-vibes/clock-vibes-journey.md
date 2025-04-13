@@ -14,6 +14,7 @@ _________
 
 ## Sun Apr 13, 2025 (day 19)
 - **10:00** - refactor tracking done
+- refactor common files
   
 ## Sat Apr 12, 2025 (day 18)
 - **21:00** - refactor tracking
