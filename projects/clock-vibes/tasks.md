@@ -2,7 +2,6 @@
 
 ## 👉 Current Task    
 - premium integration
-- refactor tracking
 
 ## 🙌 Next Tasks  
 - [ ] change ApatabaseKey_Dev
@@ -28,3 +27,4 @@
 - ✅ android: fix full screen
 - ✅ added 5 videos
 - ✅ almost done revamped UI/UX
+- ✅ refactor tracking
