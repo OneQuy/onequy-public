@@ -1,6 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- refactor common files
 - premium integration
 
 ## 🙌 Next Tasks  
