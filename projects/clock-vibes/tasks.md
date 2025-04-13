@@ -1,7 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- refactor common files
 - premium integration
 
 ## 🙌 Next Tasks  
@@ -29,3 +28,4 @@
 - ✅ added 5 videos
 - ✅ almost done revamped UI/UX
 - ✅ refactor tracking
+- ✅ refactor common files
