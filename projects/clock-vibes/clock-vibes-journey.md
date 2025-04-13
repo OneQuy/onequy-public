@@ -13,8 +13,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sun Apr 13, 2025 (day 19)
+- **21:00** - done integrate Premium/RevenueCat
+<img src="https://pbs.twimg.com/media/Goa7yoBWsAAp2i2?format=jpg&name=large" height="200">
+  
+- **20:00** - refactor common files
 - **10:00** - refactor tracking done
-- refactor common files
   
 ## Sat Apr 12, 2025 (day 18)
 - **21:00** - refactor tracking
