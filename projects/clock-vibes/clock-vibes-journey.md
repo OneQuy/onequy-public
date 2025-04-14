@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Tue Apr 15, 2025 (day 21)
+- **6:50** - done premium (demo version)
 - **6:30** - continueing premium, starting tracking
 
 ## Mon Apr 14, 2025 (day 20)
