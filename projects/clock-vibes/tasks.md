@@ -1,7 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- premium integration
 - tracking
 
 ## 🙌 Next Tasks  
@@ -30,3 +29,4 @@
 - ✅ almost done revamped UI/UX
 - ✅ refactor tracking
 - ✅ refactor common files
+- ✅ premium integration
