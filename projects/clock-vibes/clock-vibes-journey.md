@@ -13,6 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Mon Apr 14, 2025 (day 20)
+- **19:30** - Getting started to setup the demo mini-release
+<img src="https://pbs.twimg.com/media/GofvrLmWwAAwFj2?format=jpg&name=medium" height="200">
+
 - **10:00** - Day 20 is the day I hit 20 people on my waitlist! 🙌🙌🙌
 <img src="https://pbs.twimg.com/media/GodratiXcAANcVR?format=jpg&name=medium" height="200">
 
