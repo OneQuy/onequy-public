@@ -12,8 +12,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue Apr 15, 2025 (day 21)
+- **6:30** - continueing premium, starting tracking
+
 ## Mon Apr 14, 2025 (day 20)
-- **19:30** - Getting started to setup the demo mini-release
+- **19:30** - Getting started to setup the demo mini-release on Appstore. created app on Play.
 <img src="https://pbs.twimg.com/media/GofvrLmWwAAwFj2?format=jpg&name=medium" height="200">
 
 - **10:00** - Day 20 is the day I hit 20 people on my waitlist! 🙌🙌🙌
