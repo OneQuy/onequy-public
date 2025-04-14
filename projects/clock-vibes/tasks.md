@@ -2,6 +2,7 @@
 
 ## 👉 Current Task    
 - premium integration
+- tracking
 
 ## 🙌 Next Tasks  
 - [ ] change ApatabaseKey_Dev
