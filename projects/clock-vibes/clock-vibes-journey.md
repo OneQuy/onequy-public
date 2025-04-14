@@ -12,6 +12,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Mon Apr 14, 2025 (day 20)
+- **10:00** - Day 20 is the day I hit 20 people on my waitlist! 🙌🙌🙌
+<img src="https://pbs.twimg.com/media/GodratiXcAANcVR?format=jpg&name=medium" height="200">
+
 ## Sun Apr 13, 2025 (day 19)
 - **21:00** - done refactor RevenueCat
 <img src="https://pbs.twimg.com/media/Goa7yoBWsAAp2i2?format=jpg&name=large" height="200">
