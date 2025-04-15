@@ -2,6 +2,7 @@
 
 ## 👉 Current Task    
 - tracking
+- track count time
 
 ## 🙌 Next Tasks  
 - [ ] change ApatabaseKey_Dev
