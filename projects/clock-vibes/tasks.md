@@ -5,6 +5,7 @@
 - track count time
 
 ## 🙌 Next Tasks  
+- [ ] update store, add iap to RC
 - [ ] change ApatabaseKey_Dev
 - [ ] fix bug UI android + iphone SE
 - [ ] save user setting: background, font,...sound volumn,...
