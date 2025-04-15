@@ -1,14 +1,12 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- tracking
 - track count time
 
 ## 🙌 Next Tasks  
 - [ ] update store, add iap to RC
-- [ ] change ApatabaseKey_Dev
 - [ ] fix bug UI android + iphone SE
-- [ ] save user setting: background, font,...sound volumn,...
+- [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] credit fonts
@@ -32,3 +30,4 @@
 - ✅ refactor tracking
 - ✅ refactor common files
 - ✅ premium integration
+- ✅ tracking
