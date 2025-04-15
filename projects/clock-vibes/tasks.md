@@ -5,6 +5,7 @@
 
 ## 🙌 Next Tasks  
 - [ ] update store, add iap to RC
+- [ ] FetchUserDataOnNewlyInstall
 - [ ] fix bug UI android + iphone SE
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
