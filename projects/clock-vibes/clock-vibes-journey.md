@@ -13,6 +13,39 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Tue Apr 15, 2025 (day 21)
+
+Here's a cleaned-up and more polished version of your battery consumption stats, styled nicely for sharing or documentation:
+
+---
+
+### 🔋 **Battery Consumption Stats (My App)**
+
+#### **🟢 Android – Regular Usage**
+- **87%** at **8:52 AM** (Screen brightness: 65%)  
+- **82%** at **9:26 AM** → **-5%** in **34 minutes**  
+- **77%** at **9:55 AM** → **-10%** in **1 hour**  
+- **66%** at **11:00 AM** → **-20%** in **2 hours**  
+- **57%** at **11:55 AM** → **-30%** in **3 hours**  
+> 📉 **Average Drain**: ~**-10% per hour**
+
+---
+
+#### **🍎 iOS – Regular Usage**
+- **44%** at **8:55 AM** (Screen brightness: 80%)  
+- **40%** at **9:26 AM** → **-4%** in **31 minutes**  
+- **34%** at **9:54 AM** → **-10%** in **1 hour**
+
+---
+
+### 🎥 **Video Playback Test (Android)**
+- **99%** at **9:12 AM**  
+- **80%** at **10:52 AM** → **-19%** in **1h40m**  
+- **70%** at **11:45 AM** → **-29%** in **2h30m**  
+- **40%** at **1:45 PM** → **-59%** in **4h30m**  
+> 📉 **Average Drain During Video**: ~**-13% per hour**
+
+---
+
 - **6:50** - done premium (demo version)
 - **6:30** - continueing premium, starting tracking
 
