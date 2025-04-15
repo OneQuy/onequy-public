@@ -46,6 +46,7 @@ Here's a cleaned-up and more polished version of your battery consumption stats,
 
 --
 
+- **21:00** - start fix bug UI android + iphone SE
 - **17:00** - grid for list of image, video background
 <img src="https://pbs.twimg.com/media/GokVxqvW8AAd6rm?format=jpg&name=medium" height="200">
 
