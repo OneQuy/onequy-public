@@ -5,6 +5,7 @@
 
 ## 🙌 Next Tasks  
 - [ ] update store, add iap to RC
+- [ ] credit unsplash
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] fix bug UI android + iphone SE
 - [ ] save & restore user setting: background, font,...sound volumn,...
