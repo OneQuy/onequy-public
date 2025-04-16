@@ -1,8 +1,8 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] update store, add iap to RC
-- [ ] credit unsplash
+- [ ] update/setup store
+- [ ] add iap to RC
 
 ## 🙌 Next Tasks  
 - [ ] track count time
@@ -33,3 +33,4 @@
 - ✅ add RevenueCat, design purchase UI
 - ✅ add tracking
 - ✅ fix bug UI android + iphone SE
+- ✅ credit unsplash
