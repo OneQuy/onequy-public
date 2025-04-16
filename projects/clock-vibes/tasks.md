@@ -1,12 +1,11 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] fix bug UI android + iphone SE
+- [ ] update store, add iap to RC
+- [ ] credit unsplash
 
 ## 🙌 Next Tasks  
 - [ ] track count time
-- [ ] update store, add iap to RC
-- [ ] credit unsplash
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
@@ -33,3 +32,4 @@
 - ✅ tracking
 - ✅ add RevenueCat, design purchase UI
 - ✅ add tracking
+- ✅ fix bug UI android + iphone SE
