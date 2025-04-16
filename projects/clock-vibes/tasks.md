@@ -1,6 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- [ ] record fullscreen time
 - [ ] update/setup store
 - [ ] add iap to RC
 
