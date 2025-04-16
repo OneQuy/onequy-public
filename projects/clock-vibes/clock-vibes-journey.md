@@ -13,15 +13,14 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Wed Apr 16, 2025 (day 22)
+- **20:00** - credit Unsplash.
+<img src="https://pbs.twimg.com/media/GoqNZYuWYAAVEHo?format=jpg&name=medium" height="200">
+
 - **8:00** - done refactor UI
 
 ## Tue Apr 15, 2025 (day 21)
 
-Here's a cleaned-up and more polished version of your battery consumption stats, styled nicely for sharing or documentation:
-
--
-
-### 🔋 **Battery Consumption Stats (My App)**
+🔋 **Battery Consumption Stats (My App)**
 
 #### **🟢 Android – Regular Usage**
 - **87%** at **8:52 AM** (Screen brightness: 65%)  
