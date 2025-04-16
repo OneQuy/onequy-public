@@ -1,11 +1,12 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] record fullscreen time
+- commonize firestore
+
+## 🙌 Next Tasks  
 - [ ] update/setup store
 - [ ] add iap to RC
 
-## 🙌 Next Tasks  
 - [ ] track count time
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
@@ -35,3 +36,4 @@
 - ✅ add tracking
 - ✅ fix bug UI android + iphone SE
 - ✅ credit unsplash
+- ✅ record fullscreen time
