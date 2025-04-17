@@ -12,6 +12,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Fri Apr 18, 2025 (day 24)
+- **6:30** - final testing for firestore full-screen time
+   
 ## Thu Apr 17, 2025 (day 23)
 - **19:00** - bought new screen!
 <img src="https://pbs.twimg.com/media/GovEY_pawAEIMmh?format=jpg&name=small" height="200">
