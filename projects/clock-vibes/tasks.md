@@ -1,7 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- commonize firestore
+- start recording to firestore full-screen time!
 
 ## 🙌 Next Tasks  
 - [ ] update/setup store
@@ -37,3 +37,4 @@
 - ✅ fix bug UI android + iphone SE
 - ✅ credit unsplash
 - ✅ record fullscreen time
+- ✅ commonize firestore
