@@ -13,7 +13,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu Apr 17, 2025 (day 23)
-- **7:00** - commonize firestore
+- **7:30** - start recording to firestore full-screen time!
+- **7:30** - done commonize firestore
 
 ## Wed Apr 16, 2025 (day 22)
 
