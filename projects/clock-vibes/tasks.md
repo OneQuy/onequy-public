@@ -9,10 +9,10 @@
 - [ ] add iap to RC
 - [ ] bỏ forcedev
 
-- [ ] track count time
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
+- [ ] handlle/tracking errors
 - [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
