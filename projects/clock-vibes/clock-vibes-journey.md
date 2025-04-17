@@ -13,7 +13,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu Apr 17, 2025 (day 23)
-- **17:30** - done set dev (temp
+- **19:00** - bought new screen!
+<img src="https://pbs.twimg.com/media/GovEY_pawAEIMmh?format=jpg&name=small" height="200">
+
+- **17:30** - done set dev (temp)
 - **7:30** - start recording to firestore full-screen time!
 - **7:30** - done commonize firestore
 
