@@ -1,13 +1,13 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- start recording to firestore full-screen time!
+- [ ] handle update, dev note alert
+[ ] final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
 - [ ] update/setup store
 - [ ] add iap to RC
 - [ ] bỏ forcedev
-- [ ] handle update, dev note alert
 
 - [ ] track count time
 - [ ] FetchUserDataOnNewlyInstall
@@ -23,20 +23,21 @@
 - [ ] offline
 
 ## 🎉 Done  
-- ✅ designed/coded logic for main app layout:
-- ✅ added fonts
-- ✅ added 5 sizes for clock text
-- ✅ added 5 images background
-- ✅ android: fix full screen
-- ✅ added 5 videos
-- ✅ almost done revamped UI/UX
-- ✅ refactor tracking
-- ✅ refactor common files
-- ✅ premium integration
-- ✅ tracking
-- ✅ add RevenueCat, design purchase UI
-- ✅ add tracking
-- ✅ fix bug UI android + iphone SE
-- ✅ credit unsplash
-- ✅ record fullscreen time
-- ✅ commonize firestore
+✅ designed/coded logic for main app layout:
+✅ added fonts
+✅ added 5 sizes for clock text
+✅ added 5 images background
+✅ android: fix full screen
+✅ added 5 videos
+✅ almost done revamped UI/UX
+✅ refactor tracking
+✅ refactor common files
+✅ premium integration
+✅ tracking
+✅ add RevenueCat, design purchase UI
+✅ add tracking
+✅ fix bug UI android + iphone SE
+✅ credit unsplash
+✅ record fullscreen time
+✅ commonize firestore
+✅ recording to firestore full-screen time!
