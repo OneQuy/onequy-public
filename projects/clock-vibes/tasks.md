@@ -7,7 +7,8 @@
 - [ ] update/setup store
 - [ ] add iap to RC
 - [ ] bỏ forcedev
-- 
+- [ ] handle update, dev note alert
+
 - [ ] track count time
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
