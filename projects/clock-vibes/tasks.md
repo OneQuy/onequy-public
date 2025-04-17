@@ -6,7 +6,8 @@
 ## 🙌 Next Tasks  
 - [ ] update/setup store
 - [ ] add iap to RC
-
+- [ ] bỏ forcedev
+- 
 - [ ] track count time
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
