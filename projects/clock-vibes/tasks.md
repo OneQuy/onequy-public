@@ -9,7 +9,7 @@
 ## 🙌 Next Tasks  
 
 - [ ] bỏ forcedev
-
+- [ ] bug padding android premium
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
