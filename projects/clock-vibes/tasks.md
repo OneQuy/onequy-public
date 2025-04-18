@@ -2,8 +2,9 @@
 
 ## 👉 Current Task    
 - [ ] track submit time
-- [ ] final test firestore full-screen time!
+- [ ] inc version
 - [ ] thay link appstore onelink
+- [ ] final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
 
