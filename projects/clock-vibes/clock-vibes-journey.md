@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Fri Apr 18, 2025 (day 24)
+- **7:10** - setup store
 - **6:30** - final testing for firestore full-screen time
    
 ## Thu Apr 17, 2025 (day 23)
