@@ -1,6 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- [ ] track submit time
 - [ ] final test firestore full-screen time!
 - [ ] thay link appstore onelink
 
