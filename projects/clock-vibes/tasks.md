@@ -22,6 +22,9 @@
 - [ ] LegendList?
 - [ ] offline
 - [ ] dev note line
+- [ ] ipad,
+- [ ] web,
+- [ ] desktop
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
