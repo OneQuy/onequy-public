@@ -13,6 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Fri Apr 18, 2025 (day 24)
+- **08:00** - first ios submisstion!
+<img src="https://pbs.twimg.com/media/Gox4Vl8bcAALQPm?format=png&name=small" height="200">
+
 - **7:10** - setup store
 - **6:30** - final testing for firestore full-screen time
    
