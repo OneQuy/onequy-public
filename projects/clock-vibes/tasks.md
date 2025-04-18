@@ -1,8 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] update/setup store
-- [ ] add iap to RC
 - [ ] final test firestore full-screen time!
 - [ ] thay link appstore onelink
 
@@ -46,3 +44,4 @@
 - ✅ record fullscreen time
 - ✅ commonize firestore
 - ✅ recording to firestore full-screen time!
+- ✅ add iap to RC
