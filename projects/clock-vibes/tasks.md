@@ -4,6 +4,7 @@
 - [ ] update/setup store
 - [ ] add iap to RC
 - [ ] final test firestore full-screen time!
+- [ ] thay link appstore onelink
 
 ## 🙌 Next Tasks  
 
