@@ -1,12 +1,12 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] handle update, dev note alert
+- [ ] update/setup store
+- [ ] add iap to RC
 - [ ] final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
-- [ ] update/setup store
-- [ ] add iap to RC
+
 - [ ] bỏ forcedev
 
 - [ ] FetchUserDataOnNewlyInstall
@@ -21,6 +21,7 @@
 - [ ] skeleton loading?
 - [ ] LegendList?
 - [ ] offline
+- [ ] dev note line
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
