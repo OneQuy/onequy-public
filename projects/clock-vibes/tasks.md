@@ -1,7 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] track submit time
 - [ ] inc version
 - [ ] thay link appstore onelink
 - [ ] final test firestore full-screen time!
@@ -47,3 +46,4 @@
 - ✅ commonize firestore
 - ✅ recording to firestore full-screen time!
 - ✅ add iap to RC
+- ✅ track submit time
