@@ -4,6 +4,7 @@
 - [ ] inc version
 - [ ] thay link appstore onelink
 - [ ] final test firestore full-screen time!
+- [ ] bỏ session replay
 
 ## 🙌 Next Tasks  
 
