@@ -1,7 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] inc version
 - [ ] thay link appstore onelink
 - [ ] final test firestore full-screen time!
 - [ ] bỏ session replay
@@ -9,7 +8,6 @@
 ## 🙌 Next Tasks  
 
 - [ ] bỏ forcedev
-- [ ] bug padding android premium
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
@@ -48,3 +46,5 @@
 - ✅ recording to firestore full-screen time!
 - ✅ add iap to RC
 - ✅ track submit time
+- ✅ bug padding android premium
+- ✅ inc version
