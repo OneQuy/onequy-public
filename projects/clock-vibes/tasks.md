@@ -12,8 +12,9 @@ features
 - [ ] template, calendar,...
 - [ ] stats
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
-- [ ] multi devices
 - [ ] onequy apps
+- [ ] contacts
+- [ ] multi devices
 - [ ] feedback in app?
 - [ ] handlle/tracking errors
 - [ ] credit fonts
