@@ -12,7 +12,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sat Apr 19, 2025 (day 25)
+- **9:00** - fix version not apply + add tracking transparency permission
+
 ## Fri Apr 18, 2025 (day 24)
+- **22:00** - first ios rejection! (lacking of track transparency permission)
 - **17:40** - editor inc version
 - **08:00** - first android submisstion!
 <img src="https://pbs.twimg.com/media/GoyLCPRaMAAE-f8?format=png&name=small" height="200">
