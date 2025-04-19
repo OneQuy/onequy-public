@@ -4,18 +4,19 @@
 - final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
-
+features
 - [ ] thay link appstore onelink
-- [ ] bỏ forcedev
-- [ ] FetchUserDataOnNewlyInstall
-- [ ] save & restore user setting: background, font,...sound volumn,...
-- [ ] fix bugs flash blur background
+- [ ] pomodoro
+- [ ] template, calendar,...
+- [ ] stats
+- [ ] FetchUserDataOnNewlyInstall for fetch premium
+- [ ] multi devices
+- [ ] onequy apps
+- [ ] feedback in app?
 - [ ] handlle/tracking errors
-- [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
 - [ ] raw image/video
-- [ ] fix SkiaBlurredImageWithTransition
 - [ ] skeleton loading?
 - [ ] LegendList?
 - [ ] offline
@@ -23,6 +24,12 @@
 - [ ] ipad,
 - [ ] web,
 - [ ] desktop
+
+bugs
+- [ ] save & restore user setting: background, font,...sound volumn,...
+- [ ] fix bugs flash blur background
+- [ ] fix bugs glitch font when transitioning fullscreen
+- [ ] fix SkiaBlurredImageWithTransition
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
