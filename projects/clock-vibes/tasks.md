@@ -1,7 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- fix version
 - bỏ session replay
 - thêm tracking permission
 - final test firestore full-screen time!
@@ -50,3 +49,4 @@
 - ✅ track submit time
 - ✅ bug padding android premium
 - ✅ inc version
+- ✅ fix version text issue, write a code to update it automatically
