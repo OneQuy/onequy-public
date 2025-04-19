@@ -1,12 +1,14 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- [ ] thay link appstore onelink
-- [ ] final test firestore full-screen time!
-- [ ] bỏ session replay
+- fix version
+- bỏ session replay
+- thêm tracking permission
+- final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
 
+- [ ] thay link appstore onelink
 - [ ] bỏ forcedev
 - [ ] FetchUserDataOnNewlyInstall
 - [ ] save & restore user setting: background, font,...sound volumn,...
