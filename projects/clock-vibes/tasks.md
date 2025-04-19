@@ -39,6 +39,7 @@ bugs
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] fix SkiaBlurredImageWithTransition
+- [ ] bug text sound small
 
 ## 🎉 Done  
 - ✅ designed/coded logic for main app layout:
