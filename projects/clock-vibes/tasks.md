@@ -8,7 +8,13 @@
 ## 🙌 Next Tasks  
 features
 - [ ] thay link appstore onelink
-- [ ] pomodoro
+- [ ] text:
+    // "Position",
+    // "Color" |
+    // "Style" |
+    // "Weight" |
+    // "Decoration" |
+    // "Shadow"...
 - [ ] template, calendar,...
 - [ ] stats
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
