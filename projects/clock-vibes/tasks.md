@@ -1,6 +1,8 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- pomodoro!
+  
 - final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
