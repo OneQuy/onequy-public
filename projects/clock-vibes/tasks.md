@@ -1,8 +1,6 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- bỏ session replay
-- thêm tracking permission
 - final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
@@ -50,3 +48,5 @@
 - ✅ bug padding android premium
 - ✅ inc version
 - ✅ fix version text issue, write a code to update it automatically
+- ✅ remove session replay from posthog (feeling it is reduntant for my app)
+- ✅ add tracking transparency permission
