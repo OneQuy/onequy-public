@@ -18,7 +18,8 @@ features
     // "Decoration" |
     // "Shadow"...
 - [ ] template, calendar,...
-- [ ] stats
+- [ ] stats total time, pomodoro,... for user
+- [ ] block portrait screen
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
