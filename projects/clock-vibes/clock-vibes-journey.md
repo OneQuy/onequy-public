@@ -13,6 +13,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sat Apr 19, 2025 (day 25)
+- **22:00** - cooking Pomodoro (20%?)
+<img src="https://pbs.twimg.com/media/Go6QL2xaoAAjhW6?format=jpg&name=medium" height="200">
+
+- **17:40** - editor inc version
 - **16:00** - start cooking Pomodoro!
 - **9:00** - fix version not apply + add tracking transparency permission
 
