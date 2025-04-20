@@ -13,7 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sun Apr 20, 2025 (day 26)
-- **11:30** - cooking Pomodoro
+- **18:30** - cooking Pomodoro
+<img src="https://pbs.twimg.com/media/Go-cHAjbsAAuRd1?format=jpg&name=medium" height="200">
+
 - **8:30** - learn Netflix app
 
 ## Sat Apr 19, 2025 (day 25)
