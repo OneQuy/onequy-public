@@ -12,6 +12,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sun Apr 20, 2025 (day 26)
+- **11:30** - cooking Pomodoro
+- **8:30** - learn Netflix app
+
 ## Sat Apr 19, 2025 (day 25)
 - **22:00** - cooking Pomodoro (20%?)
 <img src="https://pbs.twimg.com/media/Go6QL2xaoAAjhW6?format=jpg&name=medium" height="200">
