@@ -8,6 +8,7 @@
 ## 🙌 Next Tasks  
 features
 - [ ] thay link appstore onelink
+- [ ] expo image
 - [ ] text:
     // "Position",
     // "Color" |
@@ -25,7 +26,7 @@ features
 - [ ] handlle/tracking errors
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
-- [ ] raw image/video
+- [ ] raw image/video, blur hash?
 - [ ] skeleton loading?
 - [ ] LegendList?
 - [ ] offline
