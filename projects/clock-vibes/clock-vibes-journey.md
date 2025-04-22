@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Tue Apr 22, 2025 (day 28) 
+- **21:00** - write the 2nd email to waitlist!
 - **20:00** - 43 people from 9 countries using @clockvibes today. Not bad. Still 0 revenue though :)
 <img src="https://pbs.twimg.com/media/GpJHKu7aUAAgPJk?format=jpg&name=small" height="200">
 
