@@ -13,8 +13,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Tue Apr 22, 2025 (day 28) 
+- **20:00** - 43 people from 9 countries using @clockvibes today. Not bad. Still 0 revenue though :)
+<img src="https://pbs.twimg.com/media/GpJHKu7aUAAgPJk?format=jpg&name=small" height="200">
+
 - **8:00** - updating pomodoro
-- 
+
 ## Mon Apr 21, 2025 (day 27) 
 - **22:00** - first time live on iOS store DEMO version!
 
