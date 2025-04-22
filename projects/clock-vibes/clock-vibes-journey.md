@@ -12,7 +12,12 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-## Mon Apr 21, 2025 (day 27)
+## Tue Apr 22, 2025 (day 28) 
+- **8:00** - updating pomodoro
+- 
+## Mon Apr 21, 2025 (day 27) 
+- **22:00** - first time live on iOS store DEMO version!
+
 - **17:00** - updated: OnToggleVibesView 
 - **10:30** - 0 DOWNLOADS FOR NOW (ANDROID) #milestone
 <img src="https://pbs.twimg.com/media/GpBtnHQaMAAMyYY?format=jpg&name=900x900" height="200">
