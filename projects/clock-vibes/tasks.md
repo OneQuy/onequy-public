@@ -40,6 +40,7 @@ features
 - [ ] desktop
 
 bugs
+- [ ] activeSubscriptions: [Array]
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
