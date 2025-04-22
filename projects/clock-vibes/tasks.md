@@ -24,6 +24,7 @@ features
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
+- [ ] remove tracking version
 - [ ] multi devices
 - [ ] feedback in app?
 - [ ] handlle/tracking errors
