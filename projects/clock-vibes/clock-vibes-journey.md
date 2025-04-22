@@ -12,6 +12,25 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue Apr 22, 2025 (day 28) 
+- **8:00** - updating pomodoro
+- 
+## Mon Apr 21, 2025 (day 27) 
+- **22:00** - first time live on iOS store DEMO version!
+
+- **17:00** - updated: OnToggleVibesView 
+- **10:30** - 0 DOWNLOADS FOR NOW (ANDROID) #milestone
+<img src="https://pbs.twimg.com/media/GpBtnHQaMAAMyYY?format=jpg&name=900x900" height="200">
+ 
+- **00:09** - first time live on Android store DEMO version!
+<img src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/492663866_3368861036589147_5738260547944787060_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6r6_nqywClwQ7kNvwFiGqDP&_nc_oc=AdleSOrSwK-4Rt4ngaHvWhiq9gMV_8fjEGimUp4Yb-O1hFv-46KemJB2qcS5y2XlYkg&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=4zJm3azxLFJrSuxkJJOmsA&oh=00_AfGR9tQGNtXgfIUzABAWP0QlFalwzUjj3zUisqhLg-Cn_A&oe=680B8FFC" height="200">
+
+## Sun Apr 20, 2025 (day 26)
+- **18:30** - cooking Pomodoro
+<img src="https://pbs.twimg.com/media/Go-cHAjbsAAuRd1?format=jpg&name=medium" height="200">
+
+- **8:30** - learn Netflix app
+
 ## Sat Apr 19, 2025 (day 25)
 - **22:00** - cooking Pomodoro (20%?)
 <img src="https://pbs.twimg.com/media/Go6QL2xaoAAjhW6?format=jpg&name=medium" height="200">

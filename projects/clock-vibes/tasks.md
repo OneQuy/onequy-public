@@ -2,12 +2,14 @@
 
 ## 👉 Current Task    
 - pomodoro!
-  
+- stat pomodoro
+
 - final test firestore full-screen time!
 
 ## 🙌 Next Tasks  
 features
 - [ ] thay link appstore onelink
+- [ ] expo image
 - [ ] text:
     // "Position",
     // "Color" |
@@ -16,16 +18,19 @@ features
     // "Decoration" |
     // "Shadow"...
 - [ ] template, calendar,...
-- [ ] stats
+- [ ] stats total time, pomodoro,... for user
+- [ ] track count full-screen time, pomodoro,...
+- [ ] block portrait screen
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
+- [ ] remove tracking version
 - [ ] multi devices
 - [ ] feedback in app?
 - [ ] handlle/tracking errors
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
-- [ ] raw image/video
+- [ ] raw image/video, blur hash?
 - [ ] skeleton loading?
 - [ ] LegendList?
 - [ ] offline
@@ -35,6 +40,7 @@ features
 - [ ] desktop
 
 bugs
+- [ ] activeSubscriptions: [Array]
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
