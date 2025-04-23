@@ -13,6 +13,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Wed Apr 23, 2025 (day 29) 
+- **15:00** - first directory submission!
+<img src="https://pbs.twimg.com/media/GpNFG32a4AA2Kyx?format=png&name=small" height="200">
+
 - **8:00** - conitnue pomodoro
 
 ## Tue Apr 22, 2025 (day 28) 
