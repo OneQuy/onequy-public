@@ -2,6 +2,11 @@
 
 ---
 
+**23 Apr 2025:**
+
+- **SolutionsFa.st (First Directory submission):**  
+  [SolutionsFa.st](https://www.solutionsfa.st/products#:~:text=Price-,Clock%20Vibes,-14.99)
+
 **22 Apr 2025:**
 
 - **Flutter Vietnam:**  
