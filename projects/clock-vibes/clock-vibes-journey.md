@@ -13,8 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Wed Apr 23, 2025 (day 29) 
-- **16:00** - first reddit post!
-<img src="https://www.reddit.com/r/SideProject/comments/1k5um9p/introducing_demo_version_of_clock_vibes" height="200">
+- **16:00** - first reddit [post](https://www.reddit.com/r/SideProject/comments/1k5um9p/introducing_demo_version_of_clock_vibes/)!
 
 - **15:00** - first directory submission!
 <img src="https://pbs.twimg.com/media/GpNFG32a4AA2Kyx?format=png&name=small" height="200">
