@@ -9,6 +9,8 @@
 ## 🙌 Next Tasks  
 features
 - [ ] thay link appstore onelink
+- [ ] one signal
+- [ ] add 10 new fonts
 - [ ] expo image
 - [ ] text:
     // "Position",
