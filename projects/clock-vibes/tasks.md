@@ -1,8 +1,8 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- pomodoro!
-- stat pomodoro
+- stat pomodoro: count + fullscreen time
+- test
 
 - final test firestore full-screen time!
 
@@ -28,6 +28,7 @@ features
 - [ ] contacts
 - [ ] remove tracking version
 - [ ] multi devices
+- [ ] notification for pomodoro
 - [ ] feedback in app?
 - [ ] handlle/tracking errors
 - [ ] credit fonts
