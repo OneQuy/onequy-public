@@ -11,6 +11,7 @@ features
 - [ ] thay link appstore onelink
 - [ ] one signal
 - [ ] add 10 new fonts
+- [ ] unsplash request permission key
 - [ ] expo image
 - [ ] text:
     // "Position",
