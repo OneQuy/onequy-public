@@ -12,12 +12,16 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sat Apr 26, 2025 (day 32) 
+- **9:00** - stat for pomodoro
+
 ## Fri Apr 25, 2025 (day 31) 
+- **22:00** - more clarify text for pomodoro
 - **8:0** - update execute timeout
-- 
+
 ## Thu Apr 24, 2025 (day 30/60) 
-- **8:30** - coninue updating pomodoro
-- 
+- **8:30** - continue updating pomodoro
+
 ## Wed Apr 23, 2025 (day 29) 
 - **16:30** - second reddit [post](https://www.reddit.com/r/ProductivityApps/comments/1k5uzvg/introducing_clock_vibes_a_beautifully)
 - **16:00** - first reddit [post](https://www.reddit.com/r/SideProject/comments/1k5um9p/introducing_demo_version_of_clock_vibes/)!
