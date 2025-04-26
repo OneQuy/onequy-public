@@ -1,6 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- remove scroll pick time
 - test fulltime + pomodoro
 - [ ] thay link appstore onelink
 - [ ] one signal
