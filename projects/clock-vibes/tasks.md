@@ -1,15 +1,14 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- stat pomodoro: count + fullscreen time
-- test
-
-- final test firestore full-screen time!
+- test fulltime + pomodoro
+- [ ] thay link appstore onelink
+- [ ] one signal
+- [ ] remove tracking version
+- [ ] activeSubscriptions: [Array]
 
 ## 🙌 Next Tasks  
 features
-- [ ] thay link appstore onelink
-- [ ] one signal
 - [ ] add 10 new fonts
 - [ ] unsplash request permission key
 - [ ] expo image
@@ -21,17 +20,15 @@ features
     // "Decoration" |
     // "Shadow"...
 - [ ] template, calendar,...
-- [ ] stats total time, pomodoro,... for user
-- [ ] track count full-screen time, pomodoro,...
+- [ ] stats visualize chart total time, pomodoro,...
 - [ ] block portrait screen
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
-- [ ] remove tracking version
 - [ ] multi devices
 - [ ] notification for pomodoro
 - [ ] feedback in app?
-- [ ] handlle/tracking errors
+- [ ] handle/tracking errors
 - [ ] credit fonts
 - [ ] re-pick hd and raw urls
 - [ ] raw image/video, blur hash?
@@ -44,7 +41,6 @@ features
 - [ ] desktop
 
 bugs
-- [ ] activeSubscriptions: [Array]
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
@@ -52,6 +48,7 @@ bugs
 - [ ] bug text sound small
 
 ## 🎉 Done  
+- ✅ pomodoro
 - ✅ designed/coded logic for main app layout:
 - ✅ added fonts
 - ✅ added 5 sizes for clock text
