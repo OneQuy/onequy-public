@@ -13,7 +13,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sat Apr 26, 2025 (day 32) 
-- **9:00** - stat for pomodoro
+- **11:00** - count for full-screen time
+- **9:00** - stat, count, tracking... for pomodoro
 
 ## Fri Apr 25, 2025 (day 31) 
 - **22:00** - more clarify text for pomodoro
