@@ -1,6 +1,7 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
+- fix bug glitch blur
 - unsplash
 - blur hash?
 - hotlink, download_location
