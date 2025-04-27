@@ -1,17 +1,15 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- remove scroll pick time
+- unsplash
+- blur hash?
+
 - test fulltime + pomodoro
-- [ ] thay link appstore onelink
-- [ ] one signal
-- [ ] remove tracking version
-- [ ] activeSubscriptions: [Array]
 
 ## 🙌 Next Tasks  
 features
+- [ ] video
 - [ ] add 10 new fonts
-- [ ] unsplash request permission key
 - [ ] expo image
 - [ ] text:
     // "Position",
@@ -31,8 +29,6 @@ features
 - [ ] feedback in app?
 - [ ] handle/tracking errors
 - [ ] credit fonts
-- [ ] re-pick hd and raw urls
-- [ ] raw image/video, blur hash?
 - [ ] skeleton loading?
 - [ ] LegendList?
 - [ ] offline
@@ -75,3 +71,7 @@ bugs
 - ✅ fix version text issue, write a code to update it automatically
 - ✅ remove session replay from posthog (feeling it is reduntant for my app)
 - ✅ add tracking transparency permission
+- ✅ thay link appstore onelink
+- ✅ one signal
+- ✅ remove tracking version
+- ✅ activeSubscriptions: [Array]
