@@ -33,6 +33,7 @@ features
 - [ ] credit fonts
 - [ ] skeleton loading?
 - [ ] LegendList?
+- [ ] remove unsplash unused fields
 - [ ] offline
 - [ ] dev note line
 - [ ] ipad,
