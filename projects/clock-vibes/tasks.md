@@ -3,6 +3,7 @@
 ## 👉 Current Task    
 - unsplash
 - blur hash?
+- hotlink, download_location
 
 - test fulltime + pomodoro
 
