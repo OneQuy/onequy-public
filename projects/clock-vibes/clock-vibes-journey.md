@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sun Apr 27, 2025 (day 33) 
+- **10:030** - start Unsplash!!
 - **8:00** - fix pick time pomodoro slider, fix add tag of onesignal, release 2nd pre-launch version.
 
 ## Sat Apr 26, 2025 (day 32) 
