@@ -8,6 +8,7 @@
 
 ## 🙌 Next Tasks  
 features
+- [ ] fix timer not select default
 - [ ] video
 - [ ] add 10 new fonts
 - [ ] expo image
