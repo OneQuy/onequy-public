@@ -13,6 +13,10 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Mon Apr 28, 2025 (day 34) 
+
+- **13:00** - first Play store rejection!
+<img src="https://pbs.twimg.com/media/GpmoqrIbQAA97iC?format=png&name=small" height="200">
+
 - **8:00** - to fix the bug glitch on blur
   
 ## Sun Apr 27, 2025 (day 33) 
