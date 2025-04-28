@@ -14,6 +14,9 @@ _________
 
 ## Mon Apr 28, 2025 (day 34) 
 
+- **14:00** - first big full-screen time tracked! [63 min!!](https://x.com/onequy/status/1916753998683771216)
+<img src="https://pbs.twimg.com/media/Gpms5yabMAA04Kv?format=jpg&name=small" height="200">
+
 - **13:00** - first Play store rejection!
 <img src="https://pbs.twimg.com/media/GpmoqrIbQAA97iC?format=png&name=small" height="200">
 
