@@ -12,6 +12,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue Apr 29, 2025 (day 35) 
+- **8:30** - unsplash almost done!
+  
 ## Mon Apr 28, 2025 (day 34) 
 
 - **14:00** - first big full-screen time tracked! [63 min!!](https://x.com/onequy/status/1916753998683771216), [posthog event](https://us.posthog.com/project/68983/activity/explore#q=%7B%22kind%22%3A%22DataTableNode%22%2C%22full%22%3Atrue%2C%22source%22%3A%7B%22kind%22%3A%22EventsQuery%22%2C%22select%22%3A%5B%22*%22%2C%22event%22%2C%22person%22%2C%22coalesce(properties.%24current_url%2C%20properties.%24screen_name)%20--%20Url%20%2F%20Screen%22%2C%22properties.%24lib%22%2C%22timestamp%22%5D%2C%22orderBy%22%3A%5B%22timestamp%20DESC%22%5D%2C%22after%22%3A%22-24h%22%2C%22modifiers%22%3A%7B%22usePresortedEventsTable%22%3Atrue%7D%2C%22event%22%3A%22submitted_full_screen_time%22%7D%2C%22propertiesViaUrl%22%3Atrue%2C%22showSavedQueries%22%3Atrue%2C%22showPersistentColumnConfigurator%22%3Atrue%7D)
