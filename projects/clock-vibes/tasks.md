@@ -3,6 +3,7 @@
 ## 👉 Current Task    
 
 - unsplash: apply production
+- unsplash: random, slideshow, favorite
 
 ## 🙌 Next Tasks  
 features
@@ -18,6 +19,7 @@ features
     // "Decoration" |
     // "Shadow"...
 - [ ] template, calendar,...
+- [ ] user upload image/video
 - [ ] stats visualize chart total time, pomodoro,...
 - [ ] block portrait screen
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
