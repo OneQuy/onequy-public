@@ -2,11 +2,11 @@
 
 ## 👉 Current Task    
 
-- unsplash: apply production
-- unsplash: random, slideshow, favorite
+- video
 
 ## 🙌 Next Tasks  
 features
+- [ ] unsplash: apply production
 - [ ] fix timer not select default
 - [ ] video
 - [ ] add 10 new fonts
@@ -22,6 +22,7 @@ features
 - [ ] user upload image/video
 - [ ] stats visualize chart total time, pomodoro,...
 - [ ] block portrait screen
+- [ ] unsplash: random, slideshow, favorite
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
