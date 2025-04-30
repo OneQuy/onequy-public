@@ -2,8 +2,7 @@
 
 ## 👉 Current Task    
 
-- unsplash
-
+- unsplash: apply production
 
 ## 🙌 Next Tasks  
 features
