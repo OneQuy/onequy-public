@@ -13,7 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Wed Apr 30, 2025 (day 36) 
-- **xx:xx** - unsplash fixing UI, fix Android rejection (2x)
+- **xx:xx** - unsplash fixing UI, calling hotlink, trigger download location, credit. fix Android rejection (2x)
   
 ## Tue Apr 29, 2025 (day 35) 
 - **8:30** - unsplash almost done!
