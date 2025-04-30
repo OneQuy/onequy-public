@@ -1,12 +1,9 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- fix bug glitch blur
-- unsplash
-- blur hash?
-- hotlink, download_location
 
-- test fulltime + pomodoro
+- unsplash
+
 
 ## 🙌 Next Tasks  
 features
@@ -43,9 +40,7 @@ features
 
 bugs
 - [ ] save & restore user setting: background, font,...sound volumn,...
-- [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
-- [ ] fix SkiaBlurredImageWithTransition
 - [ ] bug text sound small
 
 ## 🎉 Done  
@@ -79,3 +74,5 @@ bugs
 - ✅ one signal
 - ✅ remove tracking version
 - ✅ activeSubscriptions: [Array]
+- ✅ fix bugs flash blur background
+- ✅ fix SkiaBlurredImageWithTransition
