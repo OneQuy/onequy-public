@@ -13,8 +13,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu May 1, 2025 (day 37) 
-- **7:30** - start Video
-- 
+- **7:30** - start Video from Pexels
+
 ## Wed Apr 30, 2025 (day 36) 
 - **xx:xx** - unsplash fixing UI, calling hotlink, trigger download location, credit. fix Android rejection (2x)
   
