@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu May 1, 2025 (day 37) 
+- **19h** - start Editorial from Unsplash
 - **7:30** - start Video from Pexels
 
 ## Wed Apr 30, 2025 (day 36) 
