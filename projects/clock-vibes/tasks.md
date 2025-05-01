@@ -2,7 +2,6 @@
 
 ## 👉 Current Task    
 
-- Editorial from Unsplash
 - video from Pexels
 
 ## 🙌 Next Tasks  
@@ -81,3 +80,4 @@ bugs
 - ✅ activeSubscriptions: [Array]
 - ✅ fix bugs flash blur background
 - ✅ fix SkiaBlurredImageWithTransition
+- ✅ UNSPLASH!
