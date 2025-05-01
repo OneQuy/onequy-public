@@ -2,7 +2,8 @@
 
 ## 👉 Current Task    
 
-- video
+- Editorial from Unsplash
+- video from Pexels
 
 ## 🙌 Next Tasks  
 features
@@ -22,10 +23,13 @@ features
 - [ ] user upload image/video
 - [ ] stats visualize chart total time, pomodoro,...
 - [ ] block portrait screen
-- [ ] unsplash: random, slideshow, favorite
+- [ ] unsplash: random, slideshow, favorite, order_by param (fetch topic)
 - [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
+- [ ] dev note line
+- [ ] IAP page
+- [ ] onboarding
 - [ ] multi devices
 - [ ] notification for pomodoro
 - [ ] feedback in app?
@@ -35,7 +39,6 @@ features
 - [ ] LegendList?
 - [ ] remove unsplash unused fields
 - [ ] offline
-- [ ] dev note line
 - [ ] ipad,
 - [ ] web,
 - [ ] desktop
