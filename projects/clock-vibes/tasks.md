@@ -21,6 +21,8 @@ features
 - [ ] IAP & subscription logic & screens
 - [ ] onboarding
 
+-------------
+
 - [ ] text:
     // effect/animation
     // "Decoration" |
