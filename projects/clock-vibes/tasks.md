@@ -2,7 +2,7 @@
 
 ## 👉 Current Task    
 
-- video from Pexels
+- video from Pixabay: testing, request full access
 
 ## 🙌 Next Tasks  
 features
