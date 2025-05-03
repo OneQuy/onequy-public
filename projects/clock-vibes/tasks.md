@@ -2,6 +2,8 @@
 
 ## 👉 Current Task    
 
+- planning final release
+  
 - text:
     // "Position",
     // "Color" |
