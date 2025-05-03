@@ -12,6 +12,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sun May 4, 2025 (day 40) 
+- implementing new fonts + font weight: WinkySans
+
 ## Sat May 3, 2025 (day 39) 
 - start new fonts + font weight
 - **13h** - planning final release
