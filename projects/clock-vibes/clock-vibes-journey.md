@@ -13,6 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sat May 3, 2025 (day 39) 
+- **12h** - almost pivoted and done Pixabay
 - **8h** - pick what quality video to show (Pexels)
 
 ## Fri May 2, 2025 (day 38) 
