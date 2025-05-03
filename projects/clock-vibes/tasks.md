@@ -2,22 +2,19 @@
 
 ## 👉 Current Task    
 
-- video from Pixabay: testing, request full access
-
-## 🙌 Next Tasks  
-features
-- [ ] unsplash: apply production
-- [ ] fix timer not select default
-- [ ] video
-- [ ] add 10 new fonts
-- [ ] expo image
-- [ ] text:
+- text:
     // "Position",
     // "Color" |
     // "Style" |
     // "Weight" |
     // "Decoration" |
     // "Shadow"...
+
+## 🙌 Next Tasks  
+features
+- video from Pixabay: testing, request full access
+- [ ] unsplash: apply production
+- [ ] fix timer not select default
 - [ ] template, calendar,...
 - [ ] user upload image/video
 - [ ] premium benefit (image HD, video HD,...?)
@@ -82,3 +79,5 @@ bugs
 - ✅ fix bugs flash blur background
 - ✅ fix SkiaBlurredImageWithTransition
 - ✅ UNSPLASH!
+- ✅ expo image 
+- ✅ PIXABAY!
