@@ -2,47 +2,51 @@
 
 ## 👉 Current Task    
 
-- planning final release
-  
 - text:
+    // new fonts + weight
+  
     // "Position",
+    // size
     // "Color" |
-    // "Style" |
-    // "Weight" |
-    // "Decoration" |
-    // "Shadow"...
 
 ## 🙌 Next Tasks  
 features
-- video from Pixabay: testing, request full access
+- [ ] video from Pixabay: testing, request full access (code own server?)
 - [ ] unsplash: apply production
-- [ ] fix timer not select default
-- [ ] template, calendar,...
-- [ ] user upload image/video
-- [ ] premium benefit (image HD, video HD,...?)
-- [ ] stats visualize chart total time, pomodoro,...
+- [ ] premium benefit (image HD, video HD, multi devices, FetchUserDataOnNewlyInstall for fetch premium, ...?)
 - [ ] block portrait screen
-- [ ] unsplash: random, slideshow, favorite, order_by param (fetch topic)
-- [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
 - [ ] dev note line
-- [ ] IAP page
+- [ ] IAP & subscription logic & screens
 - [ ] onboarding
-- [ ] multi devices
+
+- [ ] text:
+    // effect/animation
+    // "Decoration" |
+    // "Shadow"...
+- [ ] unsplash: random, slideshow
+- [ ] template, calendar, weather...
+- [ ] timer countdown
+- [ ] user upload image/video
+- [ ] custom blur selected image/video
+- [ ] stats visualize chart total time, pomodoro,...
+- [ ] unsplash: favorite, order_by param (fetch topic)
+- [ ] sound-in-video, playback speed set42tings...
 - [ ] notification for pomodoro
 - [ ] feedback in app?
 - [ ] handle/tracking errors
 - [ ] credit fonts
 - [ ] skeleton loading?
 - [ ] LegendList?
-- [ ] remove unsplash unused fields
+- [ ] remove unsplash, pixabay,... unused fields
 - [ ] offline
 - [ ] ipad,
 - [ ] web,
 - [ ] desktop
 
 bugs
+- [ ] fix timer not select default
 - [ ] save & restore user setting: background, font,...sound volumn,...
 - [ ] fix bugs glitch font when transitioning fullscreen
 - [ ] bug text sound small
