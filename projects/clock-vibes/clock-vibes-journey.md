@@ -12,10 +12,14 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sat May 3, 2025 (day 39) 
+- **8h** - pick what quality video to show (Pexels)
+
 ## Fri May 2, 2025 (day 38) 
-- **19h** - continue video Pexels
+- **17h** - done basic video Pexels
 - 
 ## Thu May 1, 2025 (day 37) 
+- **21h** - done search Photos from Unsplash
 - **21h** - done search Photos from Unsplash
 - **19h** - done Editorial from Unsplash
 - **7:30** - start Video from Pexels
