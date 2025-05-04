@@ -11,6 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sun May 4, 2025 (day 40) 
+- text position!
 - 30 fonts family + font weight. all 140 fonts.
 
 ## Sat May 3, 2025 (day 39) 
