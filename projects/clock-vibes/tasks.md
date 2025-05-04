@@ -2,9 +2,7 @@
 
 ## 👉 Current Task    
 
-- text:
-    // new fonts + weight
-  
+- text:  
     // "Position",
     // size
     // "Color" |
@@ -89,3 +87,4 @@ bugs
 - ✅ UNSPLASH!
 - ✅ expo image 
 - ✅ PIXABAY!
+- ✅ font: new fonts + weight
