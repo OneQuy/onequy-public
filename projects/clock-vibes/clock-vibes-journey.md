@@ -13,7 +13,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Sun May 4, 2025 (day 40) 
-- implementing new fonts + font weight: WinkySans
+- 30 fonts family + font weight. all 140 fonts.
 
 ## Sat May 3, 2025 (day 39) 
 - start new fonts + font weight
