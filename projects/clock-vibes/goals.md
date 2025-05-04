@@ -1,21 +1,8 @@
-# ✨ **First Release Goals**
+# ✨ **Second Pre-Launch Release Goals**
 
-## 🔤 **Text Customization**
-- [X] **Font:** 5 fonts  
-- [X] **Size:** 5 sizes  
-
-## 🎨 **Background Customization**
-- [X] **Image:** 5 images  
-- [X] **Video:** 5 videos  
-
-## 🔊 **Sound Customization**
-- [X] **Sound:** 5 sounds  
-
-## 📱 **App Complete **
-- [ ] **iOS**  
-- [ ] **Android**
-- [X] **Tracking**
-- [X] **IAP**
+- [ ] new 10 fonts  
+- [ ] one signal
+- [ ] pomodoro
 
  _______________________________________
  
@@ -52,3 +39,24 @@ The problem @ClockVibes solves: enhancing focus with a customizable clock and se
 - [ ] **iOS**  
 - [ ] **Android**  
 - [ ] **Web**  
+
+ _______________________________________
+
+# ✨ **✅ First Release Goals (done)**
+
+## 🔤 **Text Customization**
+- ✅ **Font:** 5 fonts  
+- ✅ **Size:** 5 sizes  
+
+## 🎨 **Background Customization**
+- ✅ **Image:** 5 images  
+- ✅ **Video:** 5 videos  
+
+## 🔊 **Sound Customization**
+- ✅ **Sound:** 5 sounds  
+
+## 📱 **App Complete **
+- ✅ **iOS**  
+- ✅ **Android**
+- ✅ **Tracking**
+- ✅ **IAP**

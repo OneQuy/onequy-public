@@ -12,7 +12,65 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Sun May 4, 2025 (day 40) 
+- 30 fonts family + font weight. all 140 fonts.
+
+## Sat May 3, 2025 (day 39) 
+- start new fonts + font weight
+- **13h** - planning final release
+- **12h** - done Pixabay
+- **8h** - pick what quality video to show (Pexels)
+
+## Fri May 2, 2025 (day 38) 
+- **17h** - done basic video Pexels
+- 
+## Thu May 1, 2025 (day 37) 
+- **21h** - done search Photos from Unsplash
+- **21h** - done search Photos from Unsplash
+- **19h** - done Editorial from Unsplash
+- **7:30** - start Video from Pexels
+
+## Wed Apr 30, 2025 (day 36) 
+- **xx:xx** - unsplash fixing UI, calling hotlink, trigger download location, credit. fix Android rejection (2x)
+  
+## Tue Apr 29, 2025 (day 35) 
+- **8:30** - unsplash almost done!
+  
+## Mon Apr 28, 2025 (day 34) 
+
+- **xx:xx** - fixed glitch blur
+- **14:00** - first big full-screen time tracked! [63 min!!](https://x.com/onequy/status/1916753998683771216), [posthog event](https://us.posthog.com/project/68983/activity/explore#q=%7B%22kind%22%3A%22DataTableNode%22%2C%22full%22%3Atrue%2C%22source%22%3A%7B%22kind%22%3A%22EventsQuery%22%2C%22select%22%3A%5B%22*%22%2C%22event%22%2C%22person%22%2C%22coalesce(properties.%24current_url%2C%20properties.%24screen_name)%20--%20Url%20%2F%20Screen%22%2C%22properties.%24lib%22%2C%22timestamp%22%5D%2C%22orderBy%22%3A%5B%22timestamp%20DESC%22%5D%2C%22after%22%3A%22-24h%22%2C%22modifiers%22%3A%7B%22usePresortedEventsTable%22%3Atrue%7D%2C%22event%22%3A%22submitted_full_screen_time%22%7D%2C%22propertiesViaUrl%22%3Atrue%2C%22showSavedQueries%22%3Atrue%2C%22showPersistentColumnConfigurator%22%3Atrue%7D)
+<img src="https://pbs.twimg.com/media/Gpms5yabMAA04Kv?format=jpg&name=small" height="200">
+
+- **13:00** - first Play store rejection!
+<img src="https://pbs.twimg.com/media/GpmoqrIbQAA97iC?format=png&name=small" height="200">
+
+- **8:00** - to fix the bug glitch on blur
+  
+## Sun Apr 27, 2025 (day 33) 
+- **22:00** - plugged Unsplash into the app! [post](https://x.com/onequy/status/1916506567140364563)
+- **10:30** - start Unsplash!!
+- **8:00** - fix pick time pomodoro slider, fix add tag of onesignal, release 2nd pre-launch version.
+
+## Sat Apr 26, 2025 (day 32) 
+- **20:00** - new XCode
+- **11:00** - count for full-screen time
+- **9:00** - stat, count, tracking... for pomodoro
+
+## Fri Apr 25, 2025 (day 31) 
+- **22:00** - more clarify text for pomodoro
+- **8:0** - update execute timeout
+
+## Thu Apr 24, 2025 (day 30/60) 
+- **8:30** - continue updating pomodoro
+
 ## Wed Apr 23, 2025 (day 29) 
+- **16:30** - second reddit [post](https://www.reddit.com/r/ProductivityApps/comments/1k5uzvg/introducing_clock_vibes_a_beautifully)
+- **16:00** - first reddit [post](https://www.reddit.com/r/SideProject/comments/1k5um9p/introducing_demo_version_of_clock_vibes/)!
+
+- **15:00** - first directory submission!
+<img src="https://pbs.twimg.com/media/GpNFG32a4AA2Kyx?format=png&name=small" height="200">
+
 - **8:00** - conitnue pomodoro
 
 ## Tue Apr 22, 2025 (day 28) 

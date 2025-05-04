@@ -1,53 +1,58 @@
 # 🛠️ Tasks  
 
 ## 👉 Current Task    
-- pomodoro!
-- stat pomodoro
 
-- final test firestore full-screen time!
+- text:  
+    // "Position",
+    // size
+    // "Color" |
 
 ## 🙌 Next Tasks  
 features
-- [ ] thay link appstore onelink
-- [ ] expo image
-- [ ] text:
-    // "Position",
-    // "Color" |
-    // "Style" |
-    // "Weight" |
-    // "Decoration" |
-    // "Shadow"...
-- [ ] template, calendar,...
-- [ ] stats total time, pomodoro,... for user
-- [ ] track count full-screen time, pomodoro,...
+- [ ] video from Pixabay: testing, request full access (code own server?)
+- [ ] unsplash: apply production
+- [ ] premium benefit (image HD, video HD, multi devices, FetchUserDataOnNewlyInstall for fetch premium, ...?)
 - [ ] block portrait screen
-- [ ] FetchUserDataOnNewlyInstall for fetch premium
 - [ ] onequy apps
 - [ ] contacts
-- [ ] remove tracking version
-- [ ] multi devices
+- [ ] dev note line
+- [ ] IAP & subscription logic & screens
+- [ ] onboarding
+
+-------------
+
+- [ ] text:
+    // effect/animation
+    // "Decoration" |
+    // "Shadow"...
+- [ ] unsplash: random, slideshow
+- [ ] template, calendar, weather...
+- [ ] timer countdown
+- [ ] user upload image/video
+- [ ] custom blur selected image/video
+- [ ] stats visualize chart total time, pomodoro,...
+- [ ] unsplash: favorite, order_by param (fetch topic)
+- [ ] sound-in-video, playback speed set42tings...
+- [ ] notification for pomodoro
 - [ ] feedback in app?
-- [ ] handlle/tracking errors
+- [ ] handle/tracking errors
 - [ ] credit fonts
-- [ ] re-pick hd and raw urls
-- [ ] raw image/video, blur hash?
 - [ ] skeleton loading?
 - [ ] LegendList?
+- [ ] remove unsplash, pixabay,... unused fields
 - [ ] offline
-- [ ] dev note line
 - [ ] ipad,
 - [ ] web,
 - [ ] desktop
 
 bugs
-- [ ] activeSubscriptions: [Array]
+- [ ] fix timer not select default
 - [ ] save & restore user setting: background, font,...sound volumn,...
-- [ ] fix bugs flash blur background
 - [ ] fix bugs glitch font when transitioning fullscreen
-- [ ] fix SkiaBlurredImageWithTransition
 - [ ] bug text sound small
 
 ## 🎉 Done  
+- ✅ pomodoro
 - ✅ designed/coded logic for main app layout:
 - ✅ added fonts
 - ✅ added 5 sizes for clock text
@@ -73,3 +78,13 @@ bugs
 - ✅ fix version text issue, write a code to update it automatically
 - ✅ remove session replay from posthog (feeling it is reduntant for my app)
 - ✅ add tracking transparency permission
+- ✅ thay link appstore onelink
+- ✅ one signal
+- ✅ remove tracking version
+- ✅ activeSubscriptions: [Array]
+- ✅ fix bugs flash blur background
+- ✅ fix SkiaBlurredImageWithTransition
+- ✅ UNSPLASH!
+- ✅ expo image 
+- ✅ PIXABAY!
+- ✅ font: new fonts + weight
