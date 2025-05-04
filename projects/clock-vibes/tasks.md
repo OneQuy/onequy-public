@@ -2,14 +2,14 @@
 
 ## 👉 Current Task    
 
-- text:  
-    // "Position",
+- text:      
     // size
     // "Color" |
 
 ## 🙌 Next Tasks  
 features
 - [ ] video from Pixabay: testing, request full access (code own server?)
+- [ ] tracking recently features
 - [ ] unsplash: apply production
 - [ ] premium benefit (image HD, video HD, multi devices, FetchUserDataOnNewlyInstall for fetch premium, ...?)
 - [ ] block portrait screen
@@ -87,4 +87,4 @@ bugs
 - ✅ UNSPLASH!
 - ✅ expo image 
 - ✅ PIXABAY!
-- ✅ font: new fonts + weight
+- ✅ font: new fonts + weight + position
