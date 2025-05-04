@@ -2,7 +2,7 @@
 
 Enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
 
-<img src="https://pbs.twimg.com/media/Gnp9eZFaIAAFkfG?format=jpg&name=medium" alt="best-demo" height="200">
+<img src="https://pbs.twimg.com/media/GqFN3cra8AAnqJE?format=jpg&name=medium" height="200">
 
 ### Links:
 - [X](https://x.com/clockvibes)
