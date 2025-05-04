@@ -1,5 +1,7 @@
 # Tips for Submitting Your App to the App Store (Minimize Rejection)
 
+<img src="https://pbs.twimg.com/media/GqFN3cra8AAnqJE?format=jpg&name=medium" height="200">
+
 * **If your app requires account creation**, you must include a **"Delete Account"** button within the app.
 
 * **If your app collects device IDs, uses tracking/analytics, or displays ads**, you must:
