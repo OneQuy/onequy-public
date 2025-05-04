@@ -2,9 +2,11 @@
 
 ## 👉 Current Task    
 
-- text:      
-    // size
-    // "Color" |
+- text:
+  + size
+  + color
+  + background color
+  + border radius
 
 ## 🙌 Next Tasks  
 features
