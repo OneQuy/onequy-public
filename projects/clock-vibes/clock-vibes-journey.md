@@ -2,8 +2,6 @@
 
 Enhancing focus with a customizable clock and serene backgrounds for visual appeal ✨
 
-<img src="https://pbs.twimg.com/media/GqFN3cra8AAnqJE?format=jpg&name=medium" height="200">
-
 ### Links:
 - [X](https://x.com/clockvibes)
 - [Facebook](https://www.facebook.com/clockvibes)
