@@ -28,8 +28,7 @@ _________
 - **17h** - done basic video Pexels
 - 
 ## Thu May 1, 2025 (day 37) 
-- **21h** - done search Photos from Unsplash
-- **21h** - done search Photos from Unsplash
+- **21h** - done search Photos from Unsplash [post](https://x.com/onequy/status/1919363864296321066)
 - **19h** - done Editorial from Unsplash
 - **7:30** - start Video from Pexels
 
