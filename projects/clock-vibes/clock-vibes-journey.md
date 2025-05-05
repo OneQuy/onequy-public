@@ -10,8 +10,11 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-## Sun May 4, 2025 (day 40) 
+## Mon May 5, 2025 (day 41) 
 - tracking
+- requested a expedited review ios
+
+## Sun May 4, 2025 (day 40) 
 - text position + size + color!!
 - 30 fonts family + font weight. all 140 fonts.
 
