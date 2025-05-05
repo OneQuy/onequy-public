@@ -2,9 +2,10 @@
 
 ## 👉 Current Task    
 
-- [ ] tracking recently features
 - [ ] track dev another apatabase
-
+- [ ] fix timer not select default
+- [ ] save & restore user setting: background, font,...sound volumn,...
+      
 ## 🙌 Next Tasks  
 features
 - [ ] video from Pixabay: testing, request full access (code own server?)
@@ -44,10 +45,9 @@ features
 - [ ] desktop
 
 bugs
-- [ ] fix timer not select default
-- [ ] save & restore user setting: background, font,...sound volumn,...
-- [ ] fix bugs glitch font when transitioning fullscreen
+
 - [ ] bug text sound small
+- [ ] bug all android + ip6
 
 ## 🎉 Done  
 - ✅ pomodoro
@@ -86,4 +86,4 @@ bugs
 - ✅ expo image 
 - ✅ PIXABAY!
 - ✅ font: new fonts + weight + position + size + color!!
-  
+- ✅ fix bugs glitch font when transitioning fullscreen  
