@@ -11,7 +11,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Mon May 5, 2025 (day 41) 
-- tracking
+- start fixing bugs
+- done tracking
 - requested a expedited review ios
 
 ## Sun May 4, 2025 (day 40) 
