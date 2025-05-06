@@ -4,7 +4,7 @@
 
 - [ ] track dev another apatabase
 - [ ] fix timer not select default
-- [ ] save & restore user setting: background, font,...sound volumn,...
+- [ ] Zustand: save & restore user setting: background, font,...sound volumn,...
       
 ## 🙌 Next Tasks  
 features
