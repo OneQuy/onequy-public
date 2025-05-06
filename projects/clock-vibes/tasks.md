@@ -2,9 +2,8 @@
 
 ## 👉 Current Task    
 
-- [ ] track dev another apatabase
-- [ ] fix timer not select default
 - [ ] Zustand: save & restore user setting: background, font,...sound volumn,...
+- [ ] fix timer not select default
       
 ## 🙌 Next Tasks  
 features
@@ -87,3 +86,4 @@ bugs
 - ✅ PIXABAY!
 - ✅ font: new fonts + weight + position + size + color!!
 - ✅ fix bugs glitch font when transitioning fullscreen  
+- ✅ track dev another apatabase
