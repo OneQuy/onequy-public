@@ -11,6 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Wed May 7, 2025 (day 43) 
+- done Zustand + fix bug save user local setting
 - continue Zustand, refactor Selection
 
 ## Tue May 6, 2025 (day 42) 
