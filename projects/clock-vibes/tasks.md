@@ -2,8 +2,6 @@
 
 ## 👉 Current Task    
 
-- [ ] Zustand: save & restore user setting: background, font,...sound volumn,...
-- [ ] fix timer not select default
       
 ## 🙌 Next Tasks  
 features
@@ -24,6 +22,8 @@ features
     // "Decoration" |
     // "Shadow"...
 - [ ] unsplash: random, slideshow
+- [ ] date text
+- [ ] clock with seconds
 - [ ] template, calendar, weather...
 - [ ] timer countdown
 - [ ] user upload image/video
@@ -87,3 +87,4 @@ bugs
 - ✅ font: new fonts + weight + position + size + color!!
 - ✅ fix bugs glitch font when transitioning fullscreen  
 - ✅ track dev another apatabase
+- ✅ Zustand: save & restore user setting: background, font,...sound volumn,...
