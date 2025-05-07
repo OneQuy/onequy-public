@@ -10,6 +10,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Wed May 7, 2025 (day 43) 
+- continue Zustand, refactor Selection
+
 ## Tue May 6, 2025 (day 42) 
 - continue Zustand
   
