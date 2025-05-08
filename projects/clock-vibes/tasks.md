@@ -10,16 +10,15 @@ features
 - [ ] unsplash: apply production
 - [ ] premium benefit (image HD, video HD, multi devices, FetchUserDataOnNewlyInstall for fetch premium, ...?)
 - [ ] block portrait screen
-- [ ] onequy apps
-- [ ] contacts
-- [ ] dev note line
 - [ ] IAP & subscription logic & screens
-
 
 -------------
 
+- [ ] onequy apps
+- [ ] contacts
+- [ ] dev note line
 - [ ] text:
-    // effect/animation
+    // effect/animation: https://github.com/hewad-mubariz/reactnative-50-days/tree/main/timer,....
     // "Decoration" |
     // "Shadow"...
 - [ ] unsplash: random, slideshow
