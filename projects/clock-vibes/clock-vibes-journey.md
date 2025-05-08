@@ -10,6 +10,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Thu May 8, 2025 (day 44) 
+- start onboarding
+  
 ## Wed May 7, 2025 (day 43) 
 - demo custom font size postion color: [post](https://x.com/onequy/status/1920117839530479775)
 - done Zustand + fix bug save user local setting
