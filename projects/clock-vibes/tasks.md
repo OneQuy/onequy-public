@@ -2,6 +2,7 @@
 
 ## 👉 Current Task    
 
+- [ ] onboarding
       
 ## 🙌 Next Tasks  
 features
@@ -13,7 +14,7 @@ features
 - [ ] contacts
 - [ ] dev note line
 - [ ] IAP & subscription logic & screens
-- [ ] onboarding
+
 
 -------------
 
