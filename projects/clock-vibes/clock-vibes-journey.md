@@ -11,6 +11,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Thu May 8, 2025 (day 44) 
+- canceled build ios (4th)
+<img src="https://pbs.twimg.com/media/GqaUBvbWcAAt3ii?format=jpg&name=large" height="200">
+
 - start onboarding
   
 ## Wed May 7, 2025 (day 43) 
