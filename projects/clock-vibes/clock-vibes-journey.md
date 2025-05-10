@@ -12,6 +12,7 @@ _________
 
 
 ## Sat May 10, 2025 (day 46) 
+- canceled and resubmit build ios (7th)
 - continue onboarding
 - canceled and resubmit build ios (6th)
   
