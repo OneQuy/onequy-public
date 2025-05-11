@@ -12,23 +12,24 @@ _________
 
 
 ## Sun May 11, 2025 (day 47) 
-- continue onboarding
+- almost done paywall UI
+<img src="https://pbs.twimg.com/media/GqrSwQbXcAA18ZD?format=jpg&name=medium" height="200">
 
 ## Sat May 10, 2025 (day 46) 
 - canceled and resubmit build ios (7th)
-- continue onboarding
+- continue paywall
 - canceled and resubmit build ios (6th)
   
 
 ## Fri May 9, 2025 (day 45) 
-- continue onboarding
+- continue paywall
 - canceled and resubmit build ios (5th)
 
 ## Thu May 8, 2025 (day 44) 
 - canceled build ios (4th)
 <img src="https://pbs.twimg.com/media/GqaUBvbWcAAt3ii?format=jpg&name=large" height="200">
 
-- start onboarding
+- start paywall
   
 ## Wed May 7, 2025 (day 43) 
 - demo custom font size postion color: [post](https://x.com/onequy/status/1920117839530479775)
