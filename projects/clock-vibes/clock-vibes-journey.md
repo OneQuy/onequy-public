@@ -11,6 +11,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 
+## Mon May 12, 2025 (day 48) 
+- handle logic for paywall
+  
 ## Sun May 11, 2025 (day 47) 
 - almost done paywall UI
 <img src="https://pbs.twimg.com/media/GqrSwQbXcAA18ZD?format=jpg&name=medium" height="200">
