@@ -11,7 +11,8 @@ features
 - [ ] premium benefit (image HD, video HD, multi devices, FetchUserDataOnNewlyInstall for fetch premium, ...?)
 - [ ] block portrait screen
 - [ ] IAP & subscription logic & screens
-
+- [ ] ask for rating
+ 
 -------------
 
 - [ ] onequy apps
