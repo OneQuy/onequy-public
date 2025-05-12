@@ -13,6 +13,7 @@ _________
 
 ## Mon May 12, 2025 (day 48) 
 - handle logic for paywall
+- canceled and resubmit build ios (8th)
   
 ## Sun May 11, 2025 (day 47) 
 - almost done paywall UI
