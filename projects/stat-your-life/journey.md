@@ -1,4 +1,7 @@
-## Mon May 12, 2025
+## Mon May 12, 2025  
+- **22:23** inited UI [count up](https://i.ibb.co/rfpZbkHZ/image.png)
+<img src="https://i.ibb.co/rfpZbkHZ/image.png" height="200">
+
 - type defines for stat item
   
 - **18:00** inited expo
