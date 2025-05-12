@@ -1,6 +1,6 @@
 ## Mon May 12, 2025  
 - **22:23** inited UI [count up](https://i.ibb.co/rfpZbkHZ/image.png)
-<img src="https://i.ibb.co/rfpZbkHZ/image.png" height="200">
+<img src="./images/init count up UI.jpg" height="200">
 
 - type defines for stat item
   
