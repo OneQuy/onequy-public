@@ -1,13 +1,6 @@
-## v18  
-**Start:** 19 Apr 2025  
-**Submit iOS:** 20 Apr 2025  
-**Approved iOS:** 21 Apr 2025  
-- Track request transparency results  
+## Mon May 12, 2025
+- **17:30** tired of Clock Vibes appstore review so started this for coping!
 
-- Pomodoro
-  
----  
+_________
 
-## v17  
-**Live Android:** 21 Apr 2025  
-- Demo version  
+Starting point. [X post](https://x.com/onequy/status/1921875274766893277)
