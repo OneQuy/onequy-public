@@ -10,6 +10,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Tue May 13, 2025 (day 49)
+- the 2nd emailed to f*cking appstore! (App review status) Your case ID is 102597673797.
+
 ## Mon May 12, 2025 (day 48) - END STREAK - Code LifeStat 
 - coding LifeStat for checking if submit new app got approve???
 - handle logic for paywall
