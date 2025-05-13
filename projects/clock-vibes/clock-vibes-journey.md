@@ -10,8 +10,8 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-
-## Mon May 12, 2025 (day 48) 
+## Mon May 12, 2025 (day 48) - END STREAK - Code LifeStat 
+- coding LifeStat for checking if submit new app got approve???
 - handle logic for paywall
 - canceled and resubmit build ios (8th)
   
