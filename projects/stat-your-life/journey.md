@@ -1,4 +1,8 @@
+## wed may 14, 2025  
+- start money man
+
 ## Tue May 13, 2025  
+- done count up, count time up
 - fix FirebaseDatabase
   
 ## Mon May 12, 2025  
