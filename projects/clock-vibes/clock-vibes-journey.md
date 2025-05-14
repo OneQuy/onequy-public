@@ -10,6 +10,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Wed May 14, 2025 (day 50)
+- after almost 3 weeks, ios v34 IN REVIEW!
+  
 ## Tue May 13, 2025 (day 49)
 - the 2nd emailed to f*cking appstore! (App review status) Your case ID is 102597673797.
 
