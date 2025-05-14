@@ -1,11 +1,11 @@
-## wed may 14, 2025  
+## wed may 14, 2025 (d3)
 - start money man
 
-## Tue May 13, 2025  
+## Tue May 13, 2025  (d2)
 - done count up, count time up
 - fix FirebaseDatabase
   
-## Mon May 12, 2025  
+## Mon May 12, 2025  (d1)
 - **22:23** inited UI [count up](https://i.ibb.co/rfpZbkHZ/image.png)
 <img src="./images/init count up UI.jpg" height="200">
 
