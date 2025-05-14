@@ -1,6 +1,10 @@
 ## wed may 14, 2025 (d3)
 - start money man
 
+- first on real phone! [post](https://x.com/onequy/status/1922557467914805526)
+<img src="https://pbs.twimg.com/media/Gq5L0xiXkAAnB7d?format=jpg&name=large" height="200">
+  
+
 ## Tue May 13, 2025  (d2)
 - done count up, count time up
 - fix FirebaseDatabase
