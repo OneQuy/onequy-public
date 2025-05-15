@@ -1,4 +1,11 @@
 ## wed may 14, 2025 (d3)
+- start life event 
+- done money manager (damm basic)
+<img src="./images/draft_money_manager.jpg" height="200">
+
+- edit UI draft count up, count time up
+
+## wed may 14, 2025 (d3)
 - start money man
 
 - first on real phone! [post](https://x.com/onequy/status/1922557467914805526)
