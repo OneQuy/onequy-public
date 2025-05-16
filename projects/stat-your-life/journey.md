@@ -1,4 +1,8 @@
-## wed may 14, 2025 (d3)
+## Fri may 16, 2025 (d5)
+- done basics: money manager, count up, count time up, life event
+<img src="./images/draft-done-basic-events.png" height="200">
+
+## Thu may 15, 2025 (d4)
 - start life event 
 - done money manager (damm basic)
 <img src="./images/draft_money_manager.jpg" height="200">
