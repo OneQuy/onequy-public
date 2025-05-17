@@ -1,3 +1,6 @@
+## sat may 17, 2025 (d56)
+- trying upload store for check they approve or do something?
+
 ## Fri may 16, 2025 (d5)
 - done basics: money manager, count up, count time up, life event
 <img src="./images/draft-done-basic-events.png" height="200">
