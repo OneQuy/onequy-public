@@ -1,4 +1,7 @@
 ## sat may 17, 2025 (d56)
+- first uploaded to appstore! (just for checking if the appstore really works or not for clockvibes) [post](https://x.com/onequy/status/1923571725960347818)
+<img src="https://pbs.twimg.com/media/GrHl8ZjXoAAMizI?format=png&name=900x900" height="200">
+
 - trying upload store for check they approve or do something?
 
 ## Fri may 16, 2025 (d5)
