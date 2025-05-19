@@ -4,6 +4,15 @@
 
 - trying upload store for check they approve or do something?
 
+## mon may 19, 2025 (d8)
+- revamping UI
+  
+## sun may 18, 2025 (d7)
+- revamping UI
+- 
+## sat may 17, 2025 (d6)
+- start revamp UI
+
 ## Fri may 16, 2025 (d5)
 - done basics: money manager, count up, count time up, life event
 <img src="./images/draft-done-basic-events.png" height="200">
