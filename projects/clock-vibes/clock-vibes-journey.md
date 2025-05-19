@@ -12,7 +12,8 @@ _________
 
 ## Mon may 19, 2025 (day 55)
 - first call complainting appstore, dev dude no idea about long time review!
-- posted [5 post](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/social-posts.md#:~:text=5%20complaints%20on%20Reddit%3A%20F*CKING%20APP%20STORE%20IS%20TAKING%20WAAAY%20TOO%20LONG%20TO%20REVIEW!%20AppDevelopers%20Side%20Project%20apps%20appdev%20reactnative) to subreddit asking WHY??
+- posted [another one](https://www.reddit.com/r/reactnative/comments/1kq1khm/appstore_takes_so_long_time_to_review_my_app/)
+- posted [5 posts - but all removed by Reddit!!](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/social-posts.md#:~:text=5%20complaints%20on%20Reddit%3A%20F*CKING%20APP%20STORE%20IS%20TAKING%20WAAAY%20TOO%20LONG%20TO%20REVIEW!%20AppDevelopers%20Side%20Project%20apps%20appdev%20reactnative) to subreddit asking WHY??
 - still v34 IN REVIEW! CDMMM
   
 ## Sun may 18, 2025 (day 54)
