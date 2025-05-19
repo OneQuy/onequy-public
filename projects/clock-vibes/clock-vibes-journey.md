@@ -10,6 +10,14 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## Mon may 19, 2025 (day 55)
+- first call complainting appstore, dev dude no idea about long time review!
+- posted [5 post](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/social-posts.md#:~:text=5%20complaints%20on%20Reddit%3A%20F*CKING%20APP%20STORE%20IS%20TAKING%20WAAAY%20TOO%20LONG%20TO%20REVIEW!%20AppDevelopers%20Side%20Project%20apps%20appdev%20reactnative) to subreddit asking WHY??
+- still v34 IN REVIEW! CDMMM
+  
+## Sun may 18, 2025 (day 54)
+- still v34 IN REVIEW! CDMMM
+  
 ## sat may 17, 2025 (day 53)
 - 2nd email complain => robot reply!!!
 - still v34 IN REVIEW! CDMMM
