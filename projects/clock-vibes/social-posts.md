@@ -2,6 +2,15 @@
 
 ---
 
+**19 May 2025:**
+
+- 5 complaints on Reddit: F*CKING APP STORE IS TAKING WAAAY TOO LONG TO REVIEW!
+[AppDevelopers](https://www.reddit.com/r/AppDevelopers/comments/1kq18pk/my_app_is_taking_soooo_long_to_get_reviewed_by/)
+[Side Project](https://www.reddit.com/r/SideProject/comments/1kq17qz/my_app_is_taking_soooo_long_to_get_reviewed_by/)
+[apps](https://www.reddit.com/r/apps/comments/1kq18wt/my_app_is_taking_soooo_long_to_get_reviewed_by/)
+[appdev](https://www.reddit.com/r/appdev/comments/1kq191g/my_app_is_taking_soooo_long_to_get_reviewed_by/)
+[reactnative](https://www.reddit.com/r/reactnative/comments/1kq1950/my_app_is_taking_soooo_long_to_get_reviewed_by/)
+
 **23 Apr 2025:**
 
 - **Reddit (Second Reddit post!):**  [post](https://www.reddit.com/r/ProductivityApps/comments/1k5uzvg/introducing_clock_vibes_a_beautifully)
