@@ -4,6 +4,10 @@
 
 - trying upload store for check they approve or do something?
 
+## tue may 20, 2025 (d9)
+- start compress media
+- revamping UI, save time range, new themes
+  
 ## mon may 19, 2025 (d8)
 - revamping UI
   
