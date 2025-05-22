@@ -1,3 +1,9 @@
+## thu may 22, 2025 (d11)
+- doing chart
+  
+## wed may 21, 2025 (d10)
+- start chart
+
 ## tue may 20, 2025 (d9)
 - start compress media
 - revamping UI, save time range, new themes
