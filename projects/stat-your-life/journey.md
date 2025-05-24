@@ -1,3 +1,10 @@
+## sat may 24, 2025 (d13)
+- done add description, media for count up
+  
+## fri may 23, 2025 (d12)
+- start add description, media for count up
+- done basic chart (back view) for money
+
 ## thu may 22, 2025 (d11)
 - doing chart
   
