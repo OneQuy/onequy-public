@@ -1,5 +1,5 @@
 ## sat may 24, 2025 (d13)
-- view list of life event
+- start view list of life event
 - done add description, media for count up
   
 ## fri may 23, 2025 (d12)
