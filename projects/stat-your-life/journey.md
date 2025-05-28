@@ -1,4 +1,5 @@
 ## wed may 28 2025 (d17)
+- fix bug count up (due to start value)
 - view zoom a image/video for life event
   
 ## sun, mon, tue may 25, 26, 27, 2025 (d14, d15, d16)
