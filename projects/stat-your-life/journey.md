@@ -2,8 +2,10 @@
 - view zoom a image/video for life event
   
 ## sun, mon, tue may 25, 26, 27, 2025 (d14, d15, d16)
+- edit life event
 - view list of life event
 - view a item of live event
+
 
 ## sat may 24, 2025 (d13)
 - basic show list of life events
