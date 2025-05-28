@@ -11,8 +11,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## sun - today may 25, 2025 -> now (day 61 - 64)
+- fix bug android
 - still v34 IN REVIEW! CDMMM
-- 
+
 ## sat may 24, 2025 (day 60) - DEADLINE NOOOOOOOOOOOO
 - still v34 IN REVIEW! CDMMM
 - 
