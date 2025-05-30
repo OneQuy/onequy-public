@@ -1,5 +1,5 @@
-## fri may 30 2025 (d19)
-- filter for life event: level, date
+## fri may 30 2025 (d19) - v111
+- done filter for life event: level, date #special #v111
   
 ## thu may 29 2025 (d18)
 - fix pagination firestore
