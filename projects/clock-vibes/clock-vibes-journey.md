@@ -11,6 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## Fri 30 may 25, 2025 (day 66)
+- android lives on play store v35!
 - still v34 IN REVIEW! CDMMM
 
 ## sun - 29 may 25, 2025 -> now (day 61 - 65)
