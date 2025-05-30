@@ -1,3 +1,10 @@
+## fri may 30 2025 (d19)
+- filter for life event: level, date
+  
+## thu may 29 2025 (d18)
+- fix pagination firestore
+- filter for life event: level, date
+
 ## wed may 28 2025 (d17)
 - fix bug count up (due to start value)
 - view zoom a image/video for life event
