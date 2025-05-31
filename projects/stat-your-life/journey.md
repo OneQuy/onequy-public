@@ -1,7 +1,5 @@
 ## sat may 31 2025 (d20)
-- count-time-up tag
-- UI for create stats:
-  * count-up
+- delete stat
 - prioritizing tasks
 
 ## fri may 30 2025 (d19) - v111
