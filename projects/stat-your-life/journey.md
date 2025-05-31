@@ -1,6 +1,12 @@
+## sat may 31 2025 (d20)
+- UI for create stats:
+  * count-up
+- prioritizing tasks
+
 ## fri may 30 2025 (d19) - v111
 **#special #v111**
-- done filter for life event: level, date 
+- pivotted new plan: focus appstore approvval, 3 apps: clock vibes, life stat, on-repeat.
+- done filter for life event: level, date, tag
   
 ## thu may 29 2025 (d18)
 - fix pagination firestore
