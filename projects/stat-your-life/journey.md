@@ -1,5 +1,5 @@
 ## sat may 31 2025 (d20)
-- creat stat UI: count-up
+- creat stat UI common
 - done delete stat: life-event
 - done delete stat: count-up-time
 - done delete stat: money-manager
