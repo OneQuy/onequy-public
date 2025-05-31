@@ -1,5 +1,6 @@
 ## sat may 31 2025 (d20)
-- start delete stat: money-manager (15h15)
+- delete stat: count-up-time (15h27)
+- done delete stat: money-manager (12p)
 - done delete stat: count-up
 - prioritizing tasks
 
