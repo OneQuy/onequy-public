@@ -1,6 +1,7 @@
 ## sat may 31 2025 (d20)
-- stat: life-event
-- done stat: count-up-time
+- creat stat UI: count-up
+- done delete stat: life-event
+- done delete stat: count-up-time
 - done delete stat: money-manager
 - done delete stat: count-up
 - prioritizing tasks
