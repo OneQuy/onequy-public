@@ -1,3 +1,7 @@
+## sun jun 1 2025 (d21)
+- breaking change: focus life event! (5)
+    + custom amount/value (5)
+    
 ## sat may 31 2025 (d20)
 - creat stat UI common
 - done delete stat: life-event
