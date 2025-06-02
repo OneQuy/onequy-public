@@ -1,3 +1,7 @@
+## mon jun 2 2025 (d22)
+- fix compile errors and can back to add event now
+- breaking change: focus life event. 
+  
 ## sun jun 1 2025 (d21)
 - breaking change: focus life event! (5)
     + custom amount/value (5)
