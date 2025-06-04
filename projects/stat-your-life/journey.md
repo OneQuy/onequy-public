@@ -1,3 +1,9 @@
+## wed jun 4 2025 (d24)
+- adding cate/group management
+  
+## tue jun 3 2025 (d23)
+- adding cate/group management
+  
 ## mon jun 2 2025 (d22)
 - fix compile errors and can back to add event now
 - breaking change: focus life event. 
