@@ -1,5 +1,8 @@
 ## wed jun 4 2025 (d24)
-- adding cate/group management
++ button go to management
++ add category/group/tags (with check default) to record
++ tag/cate/group management
++ adding cate/group management
   
 ## tue jun 3 2025 (d23)
 - adding cate/group management
