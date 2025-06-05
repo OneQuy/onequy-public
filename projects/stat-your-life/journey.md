@@ -1,5 +1,10 @@
+## fri jun 6 2025 (d26)
+
 ## thu jun 5 2025 (d25)
 + prevent unselect default tag
++ add important level*
++ add custom amount/value*
++ fix no tag selected when switch cat/group*
   
 ## wed jun 4 2025 (d24)
 + select tag default at init
