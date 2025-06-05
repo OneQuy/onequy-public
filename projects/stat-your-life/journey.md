@@ -1,4 +1,8 @@
+## thu jun 5 2025 (d25)
++ prevent unselect default tag
+  
 ## wed jun 4 2025 (d24)
++ select tag default at init
 + button go to management
 + add category/group/tags (with check default) to record
 + tag/cate/group management
