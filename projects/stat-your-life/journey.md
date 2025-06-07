@@ -1,5 +1,9 @@
+## sat jun 7 2025 (d27)
++ moving to supabase
+  
 ## fri jun 6 2025 (d26)
-
++ moving to supabase
+  
 ## thu jun 5 2025 (d25)
 + prevent unselect default tag
 + add important level*
