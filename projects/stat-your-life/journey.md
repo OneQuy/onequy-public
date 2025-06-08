@@ -1,4 +1,11 @@
+## sun jun 8 2025 (d28)
++ insight view
+
 ## sat jun 7 2025 (d27)
++ insight view
++ design UI (5)
++ add record to supabase*
++ migrated supabase*
 + moving to supabase
   
 ## fri jun 6 2025 (d26)
