@@ -1,5 +1,8 @@
+## mon jun 9 2025 (d29)
++ subtitle for filter view
+  
 ## sun jun 8 2025 (d28)
-+ insight view
++ create/edit insight
 
 ## sat jun 7 2025 (d27)
 + insight view
