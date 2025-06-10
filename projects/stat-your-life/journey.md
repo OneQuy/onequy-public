@@ -1,5 +1,10 @@
+## tue jun 10 2025 (d30)
++ create/edit insight
++ adjust titles of create/edit insight view + add sub text explain 'all or no selected'
+  
 ## mon jun 9 2025 (d29)
-+ subtitle for filter view
++ create/edit insight
++ adjust titles of create/edit insight view + add sub text explain 'all or no selected'
   
 ## sun jun 8 2025 (d28)
 + create/edit insight
