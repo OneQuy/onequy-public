@@ -1,4 +1,8 @@
+## wed jun 11 2025 (d31)
++ learning router
+  
 ## tue jun 10 2025 (d30)
++ learning router
 + create/edit insight
 + adjust titles of create/edit insight view + add sub text explain 'all or no selected'
   
