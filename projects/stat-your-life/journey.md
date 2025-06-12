@@ -1,3 +1,6 @@
+## thu jun 12 2025 (d32)
++ learning router, testing navigate pages
+
 ## wed jun 11 2025 (d31)
 + learning router
   
