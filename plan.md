@@ -16,3 +16,18 @@ Clock Vibes 'in review' May 14.
 - If LifeStat approved, what's next?
 
 - Heading and moving focus to OnRepeat gradually
+
+_______
+
+COMMIT TO MY-SELF
+13 Jun 2025
+
+https://x.com/onequy/status/1933383322329284719
+
+From now on I commit myself only double down on 3 apps:
+
+1. ClockVibes: an aesthetic clock (90% done, waiting AppStore review)
+2. LifeStat: log events in life (in develop)
+3. OnRepeat: a no. 1 music insight app (trying to kick off late this year) 
+
+No more ideas. No more apps!
