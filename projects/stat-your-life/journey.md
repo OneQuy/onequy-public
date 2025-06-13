@@ -1,3 +1,6 @@
+## fri jun 13 2025 (d33)
++ done setup basic route
+
 ## thu jun 12 2025 (d32)
 + learning router, testing navigate pages
 
