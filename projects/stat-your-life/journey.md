@@ -1,3 +1,6 @@
+## sat jun 14 2025 (d34)
++ adapt old code to route
+
 ## fri jun 13 2025 (d33)
 + done setup basic route
 
