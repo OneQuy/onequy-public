@@ -11,7 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 
-## sat 31 may 25, 2025 -> now 13 june (day 67 - 80)
+## sat 31 may 25, 2025 -> now 14 june (day 67 - 81)
 - still v34 IN REVIEW! CDMMM
 
 ## Fri 30 may 25, 2025 (day 66)
