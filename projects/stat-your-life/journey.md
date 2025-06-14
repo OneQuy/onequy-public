@@ -2,6 +2,7 @@
 + adapt old code to route
 
 ## fri jun 13 2025 (d33)
++ detact bottom bar
 + done setup basic route
 
 ## thu jun 12 2025 (d32)
