@@ -10,7 +10,12 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-
+## mon 16 jun 25, 2025 (day 83)
+- elebeant acc is accepted!
+  
+## sun 15 jun 25, 2025 (day 82)
+- buy elebeant acc! (-$99/year!!)
+  
 ## sat 31 may 25, 2025 -> now 14 june (day 67 - 81)
 - still v34 IN REVIEW! CDMMM
 
