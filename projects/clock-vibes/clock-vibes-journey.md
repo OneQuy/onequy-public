@@ -11,8 +11,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## mon 16 jun 25, 2025 (day 83)
-- elebeant acc is accepted!
-  
+[elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
+<img src="https://pbs.twimg.com/media/GtkNEIGbkAAK98v?format=jpg&name=medium" height="200">
+
 ## sun 15 jun 25, 2025 (day 82)
 - buy elebeant acc! (-$99/year!!)
   
