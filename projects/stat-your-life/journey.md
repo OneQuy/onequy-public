@@ -1,9 +1,11 @@
 ## mon jun 16 2025 (d36)
 + overlay screen
++ [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
+<img src="https://pbs.twimg.com/media/GtkNEIGbkAAK98v?format=jpg&name=medium" height="200">
   
 ## sun jun 15 2025 (d35)
 + damgio + buy elebeant acc
- 
+
 ## sat jun 14 2025 (d34)
 + adapt old code to route
 
