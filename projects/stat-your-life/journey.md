@@ -1,3 +1,9 @@
+## wed jun 18 2025 (d38)
+- core common controller view
+  
+## tue jun 17 2025 (d37)
+- core common controller view
+  
 ## mon jun 16 2025 (d36)
 + overlay screen
 + [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
