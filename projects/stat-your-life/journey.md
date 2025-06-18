@@ -1,8 +1,13 @@
 ## wed jun 18 2025 (d38)
-- core common controller view
+- branch: prepare-test-approve-elebeant
   
 ## tue jun 17 2025 (d37)
 - core common controller view
++ show fetching after 1500ms
++ show popup-in-app when error
++ block interaction*
++ auto fetch (tabs screen)*
+    * startup
   
 ## mon jun 16 2025 (d36)
 + overlay screen
