@@ -10,6 +10,9 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
+## tue 17 jun 25, 2025 -> now 18 june (day 84 - 85)
+- stil in 'In Review' :[
+  
 ## mon 16 jun 25, 2025 (day 83)
 [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
 <img src="https://pbs.twimg.com/media/GtkNEIGbkAAK98v?format=jpg&name=medium" height="200">
