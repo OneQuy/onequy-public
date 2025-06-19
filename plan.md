@@ -23,6 +23,7 @@ COMMIT TO MY-SELF
 13 Jun 2025
 
 https://x.com/onequy/status/1933383322329284719
+https://x.com/onequy/status/1935549898616934766 (19 Jun 2025)
 
 From now on I commit myself only double down on 3 apps:
 
