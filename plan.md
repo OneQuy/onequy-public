@@ -22,9 +22,6 @@ _______
 COMMIT TO MY-SELF
 13 Jun 2025
 
-https://x.com/onequy/status/1933383322329284719
-https://x.com/onequy/status/1935549898616934766 (19 Jun 2025)
-
 From now on I commit myself only double down on 3 apps:
 
 1. ClockVibes: an aesthetic clock (90% done, waiting AppStore review)
@@ -32,3 +29,15 @@ From now on I commit myself only double down on 3 apps:
 3. OnRepeat: a no. 1 music insight app (trying to kick off late this year) 
 
 No more ideas. No more apps!
+
+https://x.com/onequy/status/1933383322329284719
+
+_
+
+I really admire those who build and market their product for a long time, for years. I want to become one of them. I'm committed and will pour my whole heart into these three apps.
+https://x.com/onequy/status/1935549898616934766 (19 Jun 2025)
+
+- ClockVibes: I see big potential with it. Lot of people using similar apps while they studying or working.
+- LifeStat: Solving my own problem! Build it so the ones like me can use it as well.
+- OnRepeat: I love music. Music saves my life, I wanna do something to give back to it.
+https://x.com/onequy/status/1935552075846627630 (19 Jun 2025)
