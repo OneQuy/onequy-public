@@ -10,7 +10,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-## tue 17 jun 25, 2025 -> now 18 june (day 84 - 85)
+## tue 17 jun 25, 2025 -> now 20 june (day 84 - 87)
 - stil in 'In Review' :[
   
 ## mon 16 jun 25, 2025 (day 83)
