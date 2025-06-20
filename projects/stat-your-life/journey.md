@@ -1,3 +1,13 @@
+## sat jun 20 2025 (d41)
+- met Thành to test appstore (elebeant)
+
+## fri jun 20 2025 (d40)
++ how to prevent interaction when set?
++ handle other loading?
+  
+## thu jun 19 2025 (d39)
+- met Thành to test appstore (elebeant) but Thành's mac broken :[[[
+  
 ## wed jun 18 2025 (d38)
 - branch: prepare-test-approve-elebeant
   
@@ -9,6 +19,7 @@
 + auto fetch (tabs screen)*
     * startup
   
+
 ## mon jun 16 2025 (d36)
 + overlay screen
 + [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
