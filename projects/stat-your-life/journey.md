@@ -1,4 +1,5 @@
 ## sat jun 20 2025 (d41)
+- submitted MemYourLife!
 - met Thành to test appstore (elebeant)
 
 ## fri jun 20 2025 (d40)
