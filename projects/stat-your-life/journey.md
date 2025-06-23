@@ -1,4 +1,11 @@
-## sat jun 20 2025 (d41)
+## mon jun 23 2025 (d43)
+- thinking about what's next?
+- appstore reviewed!! but rejected (guessed) elebeant account
+  
+## sun jun 22 2025 (d42)
+- do nothing due to stress about appstore not approve (over 24h) elebeant account
+  
+## sat jun 21 2025 (d41)
 - submitted MemYourLife!
 - met Thành to test appstore (elebeant)
 
