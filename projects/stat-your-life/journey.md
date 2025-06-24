@@ -1,3 +1,6 @@
+## tue jun 24 2025 (d44)
+- thinking about what's next?
+  
 ## mon jun 23 2025 (d43)
 - thinking about what's next?
 - appstore reviewed!! but rejected (guessed) elebeant account
