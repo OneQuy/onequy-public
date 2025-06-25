@@ -1,4 +1,8 @@
+## wed jun 25 2025 (d45)
+- update overlay view
+  
 ## tue jun 24 2025 (d44)
+- update overlay view
 - thinking about what's next?
   
 ## mon jun 23 2025 (d43)
