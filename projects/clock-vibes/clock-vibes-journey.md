@@ -11,7 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## wed 25 jun 25, 2025 (day 92)
-- DEVELOPER REJECTED (v34)
+- [DEVELOPER REJECTED](https://x.com/onequy/status/1937811194750107817) (v34)
   
 ## tue 24 jun 25, 2025 (day 91)
 - EXTERNAL TEST v34 is approved!
@@ -27,6 +27,7 @@ _________
   
 ## mon 16 jun 25, 2025 (day 83)
 [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
+
 <img src="https://pbs.twimg.com/media/GtkNEIGbkAAK98v?format=jpg&name=medium" height="200">
 
 ## sun 15 jun 25, 2025 (day 82)
