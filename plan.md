@@ -1,4 +1,23 @@
-NEW PLAN
+NEWEST PLAN (v1 - 25 Jun 2025)
+
+### Clock Vibes 
+- Developer rejected (25 June)
+- Will rebuild and resumbit again in next 5-10 days (@onequy)
+
+### Life Stat
+- **NOW**: trying MVP asap!
+- Then submit to check if they approve
+  + approved => should continue developing or focus On-Repeat?
+  + not aproved => focus On-Repeat web?
+  
+### On-Repeat
+- Wait for Life Stat first MVP review result
+  + approved => should continue developing or focus On-Repeat?
+  + not aproved => focus On-Repeat web?
+
+-------
+
+PLAN (v0)
 
 Clock Vibes 'in review' May 14.
 
