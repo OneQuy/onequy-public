@@ -1,3 +1,12 @@
+## fri 26 jun 2025 (d46)
+- import screen
+  
+## thu 26 jun 2025 (d46)
+fetch data flow:    
+    + fetch user startup
+    + how to prevent interaction when set?
+    + handle other loading?
+    
 ## wed jun 25 2025 (d45)
 - update overlay view
   
