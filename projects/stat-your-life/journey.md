@@ -1,5 +1,6 @@
-## fri 26 jun 2025 (d47)
-- import screen
+## fri 27 jun 2025 (d47)
+- listing view as home screen
+- import screens
   
 ## thu 26 jun 2025 (d46)
 fetch data flow:    
