@@ -1,5 +1,5 @@
 ## sat 28 jun 2025 (d48)
-- add event
+- [add event](https://x.com/onequy/status/1938978411416035836)
 - bottom bar + action button
 - listing view as home screen
   
