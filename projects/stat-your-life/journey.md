@@ -1,3 +1,6 @@
+## sat 28 jun 2025 (d48)
+- listing view as home screen
+  
 ## fri 27 jun 2025 (d47)
 - listing view as home screen
 - import screens
