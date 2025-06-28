@@ -1,4 +1,6 @@
 ## sat 28 jun 2025 (d48)
+- add event
+- bottom bar + action button
 - listing view as home screen
   
 ## fri 27 jun 2025 (d47)
