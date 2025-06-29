@@ -1,3 +1,6 @@
+## sun 29 jun 2025 (d49)
++ listing view: update when back from modal
+  
 ## sat 28 jun 2025 (d48)
 - [add event](https://x.com/onequy/status/1938978411416035836)
 - bottom bar + action button
@@ -8,7 +11,7 @@
 - import screens
   
 ## thu 26 jun 2025 (d46)
-fetch data flow:    
+- fetch data flow:    
     + fetch user startup
     + how to prevent interaction when set?
     + handle other loading?
