@@ -1,5 +1,6 @@
 ## sun 29 jun 2025 (d49)
 + listing view: update when back from modal
++ listing view: show popup & add item
   
 ## sat 28 jun 2025 (d48)
 - [add event](https://x.com/onequy/status/1938978411416035836)
