@@ -11,7 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 
-## thu 26 jun 25, 2025 -> now 28 june (day 93 - 95)
+## thu 26 jun 25, 2025 -> now 29 june (day 93 - 96)
 - developer rejected, wait for resubmit
   
 ## wed 25 jun 25, 2025 (day 92)
