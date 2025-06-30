@@ -1,3 +1,7 @@
+## mon 30 jun 2025 (d50)
++ prepare next mini release: transitioning to yourlife project
++ demo insight view
+  
 ## sun 29 jun 2025 (d49)
 + listing view: update when back from modal
 + listing view: show popup & add item
