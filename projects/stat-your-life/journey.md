@@ -1,3 +1,7 @@
+## tue 1 jul 2025 (d51)
++ add tracking
++ prepare next mini release: transitioning to yourlife project
+  
 ## mon 30 jun 2025 (d50)
 + prepare next mini release: transitioning to yourlife project
 + demo insight view
