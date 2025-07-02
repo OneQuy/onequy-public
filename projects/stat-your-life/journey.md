@@ -1,3 +1,6 @@
+## wed 2 jul 2025 (d52)
++ one event view
+  
 ## tue 1 jul 2025 (d51)
 + prepare next mini release: transitioning to yourlife project
   + temp remove login
