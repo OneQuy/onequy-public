@@ -1,3 +1,7 @@
+## thu 3 jul 2025 (d53)
++ listing view: view image
++ listing view: view item
+  
 ## wed 2 jul 2025 (d52)
 + one event view
   
