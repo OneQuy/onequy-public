@@ -1,6 +1,9 @@
+## sat 5 jul 2025 (d55)
++ listing view: view item
+
 ## fri 4 jul 2025 (d54)
 + fix: overlay not cover modal - turn to card, not modal
-+ listing view: view image    
++ listing view: view zoom image    
   
 ## thu 3 jul 2025 (d53)
 + listing view: view image
