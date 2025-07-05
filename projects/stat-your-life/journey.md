@@ -1,4 +1,5 @@
 ## sat 5 jul 2025 (d55)
++ listing view: edit item
 + listing view: view item
 
 ## fri 4 jul 2025 (d54)
