@@ -1,4 +1,5 @@
 ## sat 5 jul 2025 (d55)
++ management cat/group view
 + listing view: edit item
 + listing view: view item
 
