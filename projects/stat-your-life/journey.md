@@ -1,3 +1,9 @@
+## mon 7 jul 2025 (d57)
++ pick time range view
+  
+## sun 6 jul 2025 (d56)
++ pick time range view
+  
 ## sat 5 jul 2025 (d55)
 + management cat/group view
 + listing view: edit item
