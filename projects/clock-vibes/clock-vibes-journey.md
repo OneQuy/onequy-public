@@ -10,26 +10,28 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 - [Goals](https://github.com/OneQuy/onequy-public/blob/main/projects/clock-vibes/goals.md)
 _________
 
-
-## thu 26 jun 25, 2025 -> now 7 jul (day 93 - 104)
+## tue 8 jul 2025 (day 105)
+- **RESUBMITTED** IOS v36
+  
+## thu 26 jun 2025 -> now 7 jul (day 93 - 104)
 - developer rejected, wait for resubmit
   
-## wed 25 jun 25, 2025 (day 92)
+## wed 25 jun 2025 (day 92)
 - [DEVELOPER REJECTED](https://x.com/onequy/status/1937811194750107817) (v34)
   
 ## tue 24 jun 25, 2025 (day 91)
 - EXTERNAL TEST v34 is approved!
 - stil in 'In Review' :[
   
-## mon 23 jun 25, 2025 (day 90)
+## mon 23 jun, 2025 (day 90)
 - submit for EXTERNAL TEST
 - appstore did review new acc! thinking about what's next? for elebeant acc
 - stil in 'In Review' :[ (onequy acc)
 
-## tue 17 jun 25, 2025 -> now 22 june (day 84 - 89)
+## tue 17 jun, 2025 -> now 22 june (day 84 - 89)
 - stil in 'In Review' :[ (onequy acc)
   
-## mon 16 jun 25, 2025 (day 83)
+## mon 16 jun, 2025 (day 83)
 [elebeant appstore account got approve!](https://x.com/onequy/status/1934591893507338723)
 
 <img src="https://pbs.twimg.com/media/GtkNEIGbkAAK98v?format=jpg&name=medium" height="200">
