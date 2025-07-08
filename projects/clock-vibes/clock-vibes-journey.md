@@ -11,7 +11,7 @@ Enhancing focus with a customizable clock and serene backgrounds for visual appe
 _________
 
 ## tue 8 jul 2025 (day 105)
-- **RESUBMITTED** IOS v36
+- **RESUBMITTED** iOS [v36](https://pbs.twimg.com/media/GvTBvF8XAAAfr-l?format=jpg&name=small)
   
 ## thu 26 jun 2025 -> now 7 jul (day 93 - 104)
 - developer rejected, wait for resubmit
