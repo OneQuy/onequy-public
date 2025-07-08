@@ -1,4 +1,8 @@
+## tue 8 jul 2025 (d58)
++ update insight
+  
 ## mon 7 jul 2025 (d57)
++ create insight
 + pick time range view
   
 ## sun 6 jul 2025 (d56)
