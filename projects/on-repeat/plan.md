@@ -1,3 +1,7 @@
+[post X about Spotify turn off their API](https://x.com/onequy/status/1943206821570974031)
+
+----------------------
+
 8-jul-2025
 
 1 playlist management
