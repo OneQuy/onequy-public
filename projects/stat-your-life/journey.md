@@ -1,3 +1,9 @@
+## thu 10 jul 2025 (d60)
++ no work
+  
+## wed 9 jul 2025 (d59)
++ no work
+  
 ## tue 8 jul 2025 (d58)
 + update insight
   
