@@ -1,5 +1,8 @@
+## 11 jul 2025 (d61)
++ edit insight / apply filter for insight
+  
 ## thu 10 jul 2025 (d60)
-+ no work
++ fix bugs
   
 ## wed 9 jul 2025 (d59)
 + no work
