@@ -1,3 +1,7 @@
+## 12 jul 2025 (d62)
++ fix supabase sumasync
++ edit insight / apply filter for insight
+  
 ## 11 jul 2025 (d61)
 + edit insight / apply filter for insight
   
