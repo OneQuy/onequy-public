@@ -1,4 +1,8 @@
 ## 12 jul 2025 (d62)
++ edit insight    
++ insight view: 
+    * apply filters
+    * update numer after edit
 + fix supabase sumasync
 + edit insight / apply filter for insight
   
