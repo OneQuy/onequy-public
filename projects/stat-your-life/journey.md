@@ -1,3 +1,9 @@
+## 14 jul 2025 (d64)
+- fix bug date serialize
+  
+## 13 jul 2025 (d63)
+- no work. moved house for Bean
+  
 ## 12 jul 2025 (d62)
 + edit insight    
 + insight view: 
