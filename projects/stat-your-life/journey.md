@@ -1,3 +1,7 @@
+
+## 15 jul 2025 (d65)
+- create swift app (acc onequy)
+
 ## 14 jul 2025 (d64)
 - fix bug date serialize
   
