@@ -1,4 +1,11 @@
-NEWEST PLAN (v1 - 25 Jun 2025)
+NEWEST PLAN (v2 - 15 Jul 2025)
+- create swift app (elebeant)
+- new acc with locho
+-....
+
+---------
+
+PLAN (v1 - 25 Jun 2025)
 
 ### Clock Vibes 
 - Developer rejected (25 June)
