@@ -1,7 +1,12 @@
 
+## 16 jul 2025 (d66)
+WHAT?? TRASH APP CALENDAR BUDS BY SWIFT-UI GOT APPROVED??
+
 ## 15 jul 2025 (d65)
 - create swift app (acc onequy)
 
+### STOP CODING DUE TO DEPRESSED OF APPSTORE. ON THE EDGE SWITCHING TO WEB DEV ###
+  
 ## 14 jul 2025 (d64)
 - fix bug date serialize
   
