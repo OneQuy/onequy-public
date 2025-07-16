@@ -1,7 +1,7 @@
 NEWEST PLAN (v2 - 15 Jul 2025)
+- create swift app (onequy)
 - create swift app (elebeant)
-- new acc with locho
--....
+- new acc with bé An,...
 
 ---------
 
