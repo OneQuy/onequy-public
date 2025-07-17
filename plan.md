@@ -1,6 +1,7 @@
 NEWEST PLAN (v2 - 15 Jul 2025)
-- create swift app (onequy)
+- update swift app (onequy)
 - create swift app (elebeant)
+- check why some app approved?
 - new acc with bé An,...
 
 ---------
@@ -67,3 +68,4 @@ https://x.com/onequy/status/1935549898616934766 (19 Jun 2025)
 - LifeStat: Solving my own problem! Build it so the ones like me can use it as well.
 - OnRepeat: I love music. Music saves my life, I wanna do something to give back to it.
 https://x.com/onequy/status/1935552075846627630 (19 Jun 2025)
+0
