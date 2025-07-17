@@ -1,5 +1,6 @@
 ## 17 jul 2025 (pre)
 - initted project. [X](https://x.com/onequy/status/1945816154750206232)
+<img src="https://pbs.twimg.com/media/GwDucSmW8AA18jC?format=jpg&name=small" height="200">
 
 ## 16 jul 2025 (pre)
 - figured out mobile web still more users than pure web !! YAY~~~
