@@ -1,4 +1,7 @@
 ## 18 jul 2025 - day 1
+- [reading apple music API document](https://x.com/onequy/status/1946174896851313033)
+<img src="https://pbs.twimg.com/media/GwIyjsRXQAAOq7l?format=jpg&name=900x900" height="200">
+
 - get my user token of apple music for testing fetch recently played.
 - decided first feature: user listening history DB 
 - planning/arranging/prioritizing features
