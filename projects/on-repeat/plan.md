@@ -6,12 +6,15 @@
 
 1 playlist management
 - merge by genre/playlist/artist
-- archieve
+- archieve/backup
 - share screenshot
 - manual create top songs
 - display songs w count
 - Smart Playlists – Generate dynamic playlists based on listening history or mood.
 - find duplicate
+- sync/copy playlist from friend
+- Advanced playlist organization: folder
+- custom artwork
 
 2 user stat/chart (based on count/playlists)
 - most plays count
@@ -22,7 +25,12 @@
 - country of song
 - popularity
 - mood
+- topic
 - ss
+- bpm
+- rating (apple music)
+- rating (user manual)
+- roast
 
 3 map
 - recently plays
@@ -36,21 +44,27 @@
 - favorite songs release date
 - most play song of the day
 - mood
+- topic
 - screenshot
 
 5 song
 - share custom poster
-- meaning
-- meta/stat/country/popularity/mood screen
+- meaning/story/history
+- meta/stat/country/popularity/mood/topic/bpm/rating (am)/billboard rank/user rating
+- other platforms links
 - friend plays stat
+- cmt
+- roast
+- custom artwork
 
 6 widget
+- latest rating
 
 7 social
-- listen what friend is listening
+- listen what friend is listening, rating
 - rating/feedback friend favorite songs
 - Activity Feed
-
+- fast rcm songs
 8 discover songs
 
 9 game
@@ -58,7 +72,7 @@
 10 local music
 - play music
 - count
-- social: share, feedback, analytic
+- social: share, feedback, analytic, cmt
 
 11 radio
 
@@ -66,6 +80,7 @@
 - top by country
 - top by genre
 - kworb
+- billboard/officialchart
 
 13 player
 - control apple music player state
@@ -76,4 +91,9 @@
 
 14 my space
 
-15 soundcloud, tidal
+15 soundcloud, tidal, last.fm
+
+16 Music challenges or badges (e.g., “Listened to 100 new songs this month”).
+
+17 others
+- Sleep timer.
