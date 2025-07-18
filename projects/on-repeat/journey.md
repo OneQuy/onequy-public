@@ -1,5 +1,7 @@
 ### 18 jul 2025 - day 1
 
+- submit v2 of tesing version: added custom top songs
+  
 # appstore rejected testing version, but they really do review!!! 🚀 (19h, after 3 hour reviewing)
 
 - [reading apple music API document](https://x.com/onequy/status/1946174896851313033)
