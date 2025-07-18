@@ -1,4 +1,6 @@
 ## 18 jul 2025 - day 1
+- get my user token of apple music for testing fetch recently played.
+- decided first feature: user listening history DB 
 - planning/arranging/prioritizing features
   
 # 17 jul 2025 - day 0
