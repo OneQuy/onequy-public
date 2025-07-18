@@ -3,7 +3,7 @@
 - decided first feature: user listening history DB 
 - planning/arranging/prioritizing features
   
-# 17 jul 2025 - day 0
+# 17 jul 2025 - day 0 🚀🚀🚀🚀🚀🚀🚀🚀
 - initted project. [X](https://x.com/onequy/status/1945816154750206232)
 <img src="https://pbs.twimg.com/media/GwDucSmW8AA18jC?format=jpg&name=small" height="200">
 
