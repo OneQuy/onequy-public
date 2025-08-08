@@ -2,15 +2,16 @@
 
 ----------------------
 
-8-jul-2025
+*updated 8 aug 2025*
 
 1 playlist management
 - merge by genre/playlist/artist
+- delete songs in playlist with custom filter: genre, artist,...
 - archieve/backup
 - share screenshot
 - manual create top songs
 - display songs w count
-- Smart Playlists – Generate dynamic playlists based on listening history or mood.
+- Smart Playlists – Generate dynamic playlists based on listening history or mood or a user short sentence
 - find duplicate
 - sync/copy playlist from friend
 - Advanced playlist organization: folder
@@ -56,6 +57,7 @@
 - cmt
 - roast
 - custom artwork
+- history played of song/artist
 
 6 widget
 - latest rating
@@ -65,7 +67,9 @@
 - rating/feedback friend favorite songs
 - Activity Feed
 - fast rcm songs
-8 discover songs
+- Apple Music Feed
+
+8 discover songs as game/swipe,...
 
 9 game
 
@@ -95,5 +99,14 @@
 
 16 Music challenges or badges (e.g., “Listened to 100 new songs this month”).
 
-17 others
+17 misc
 - Sleep timer.
+- popup streak (sog x listened 100 times,...)
+
+18 wiki / faq / q&a
+
+19 photobooth, stickers (18 jul)
+
+20 artist
+- metadata
+- tour/events
