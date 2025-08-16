@@ -2,7 +2,7 @@
 
 ----------------------
 
-*updated 8 aug 2025*
+*updated 16 aug 2025*
 
 1 playlist management
 - merge by genre/playlist/artist
@@ -110,3 +110,10 @@
 20 artist
 - metadata
 - tour/events
+
+21 history tracks
+- modes: insert all, ignore all, last x ones, only new
+- add/delete manually
+- stop tracking
+- track loop 1 songs
+
