@@ -2,7 +2,10 @@
 
 ----------------------
 
-*updated 16 aug 2025*
+*updated 18 aug 2025*
+
+**suggest features by community:**
+https://www.reddit.com/r/AppleMusic/s/Z9yV2BeBHN
 
 1 playlist management
 - merge by genre/playlist/artist
